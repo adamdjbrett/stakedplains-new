@@ -1,0 +1,26 @@
+#main links
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Texts"
+    url: /texts/
+  - title: "Maps"
+    url: /maps/
+  - title: "Gallery"
+    url: /galleries/
+  - title: "Contact"
+    url: /contact/
+  - title: "Links"
+    url: /links/
+  - title: "Intro"
+    url: /intro/
+  - title: "Credits"
+    url: /credits/
+  - title: "Bio"
+    url: /bio/
+  - title: "Sitemap"
+    url: /sitemap/
+  - title: "Privacy"
+    url: /privacy/
