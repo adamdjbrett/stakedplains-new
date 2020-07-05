@@ -5,7 +5,7 @@ categories:
   - gallery
 header:
   teaser: /images/gallery/category_1.jpg
-  image: /images/gallery/162.jpg
+  image: /images/gallery/bison-skulls-stacked.jpg
 ---
  <figure class="third half">
   {% for file in site.static_files %}
