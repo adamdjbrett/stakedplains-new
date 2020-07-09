@@ -4,7 +4,7 @@ excerpt_separator: "<!--more-->"
 header:
   image: /images/gallery/226.jpg
 categories:
-  - galleries
+  - gallery
 tags:
   - staked-plains
   - palo-duro
