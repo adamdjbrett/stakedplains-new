@@ -5,6 +5,11 @@ image: "254_t.jpg"
 last_modified: "2007-04-14 08:10:10"
 description: |
   "Traditional Commanche Territories."
+categories:
+  - gallery
+tags:
+  - staked-plains
+  - palo-duro
+  - history  
 ---
-
-
+"Traditional Commanche Territories."

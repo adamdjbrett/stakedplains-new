@@ -1,17 +1,24 @@
 ---
-title: "Enormous Donâ€™t Express It â€“ The Wordâ€™s Too Tame"
+title: "Enormous Don’t Express It The Word’s Too Tame"
 date: "2007-03-29 06:31:23"
-
 last_modified: "2007-03-29 06:34:32"
 description: |
   "In 1873, the year before the Adair's went West, Mark Twain published his amazing _The Gilded Age_, and captured the tone of inevitable private abundance at the core of the Western project..."
+categories:
+  - texts
+tags:
+  - staked-plains
+  - palo-duro
+  - history  
 ---
+"In 1873, the year before the Adair's went West, Mark Twain published his amazing _The Gilded Age_, and captured the tone of inevitable private abundance at the core of the Western project..."
+***
 
 June 18 —
 
-"Do you see these papers? Well, they are evidence that I have taken up Seventy-five Thousand Acres of Land in this county--think what an enormous fortune it will be some day! Why, Nancy, enormous don't express it--the word's too tame! I tell you, Nancy--" 
+"Do you see these papers? Well, they are evidence that I have taken up Seventy-five Thousand Acres of Land in this county--think what an enormous fortune it will be some day! Why, Nancy, enormous don't express it--the word's too tame! I tell you, Nancy--"
 
-"For goodness sake, Si --" 
+"For goodness sake, Si --"
 
 “Wait, Nancy, wait—let me finish—I’ve been secretly boiling and fuming with this grand inspiration for weeks, and I must talk or I’ll burst! I haven’t whispered to a soul—not a word—have had my countenance under lock and key, for fear it might drop something that would tell even these animals here how to discern the gold mine that’s glaring under their noses. Now all that is necessary to hold this land and keep it in the family is to pay the trifling taxes on it yearly—five or ten dollars—the whole tract would not sell for over a third of a cent an acre now, but some day people will be glad to get it for twenty dollars, fifty dollars, a hundred dollars an acre! What should you say to” [here he dropped his voice to a whisper and looked anxiously around to see that there were no eavesdroppers,] “a thousand dollars an acre!
 

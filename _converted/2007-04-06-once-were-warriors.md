@@ -5,6 +5,11 @@ image: "240_t.jpg"
 last_modified: "2007-04-14 08:03:43"
 description: |
   "The vastness that once was Commancheria."
+categories:
+  - gallery
+tags:
+  - staked-plains
+  - palo-duro
+  - history  
 ---
-
-
+"The vastness that once was Commancheria."
