@@ -1,7 +1,7 @@
 ---
 title: "Enormous Donâ€™t Express It â€“ The Wordâ€™s Too Tame"
 date: "2007-03-29 06:31:23"
-image: "NULL"
+
 last_modified: "2007-03-29 06:34:32"
 description: |
   "In 1873, the year before the Adair's went West, Mark Twain published his amazing <i>The Gilded Age</i>, and captured the tone of inevitable private abundance at the core of the Western project..."

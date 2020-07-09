@@ -1,7 +1,7 @@
 ---
 title: "A Cowboy's Ode to What the Indians 'Lost'"
 date: "2007-03-24 02:59:47"
-image: "NULL"
+
 last_modified: "2007-03-28 19:02:59"
 description: |
   "I delighted in a plunge at the big spring, formerly a watering place of the Indians..."

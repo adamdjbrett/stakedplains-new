@@ -1,7 +1,7 @@
 ---
 title: "On Staked Plains: 'Until the Wind is a River no more...'"
 date: "2007-01-20 08:37:33"
-image: "NULL"
+
 last_modified: "2007-04-15 09:07:58"
 description: |
   "The "Llano Estacado" - Staked Plains - is the name affixed by the Conquistadors to an unquenchable western vastness. They were far from <i>empty</i> plains. Andy Wilkinson's song-poem conjures some of its spirit(s)..."

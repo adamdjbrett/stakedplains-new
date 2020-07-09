@@ -1,7 +1,7 @@
 ---
 title: "Rails and Trails"
 date: "2007-04-15 07:45:53"
-image: "NULL"
+
 last_modified: "2007-04-15 07:53:54"
 description: |
   "The Adair's were soon to enter a Texas economy ablaze with pent-up Railroad Frenzy, put on hold by the Civil War. Not only would this soon spell the end of buffalo and Indian lifeways, but, soon thereafter, would end the romantic open range and the great trail drives that had made Adair's partner, Charles Goodnight, duly famous."

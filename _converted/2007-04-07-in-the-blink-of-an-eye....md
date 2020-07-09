@@ -1,7 +1,7 @@
 ---
 title: "In the blink of an eye..."
 date: "2007-04-07 07:34:41"
-image: "NULL"
+
 last_modified: "2007-04-10 16:09:31"
 description: |
   "In May of 1871, the Army's Col. Richard Dodge, who escorted Russian Crown Prince Alexi's grand western hunt, could wade through an <i>ocean</i> of buffaloes. In September 1874, while he chaperones the Adair's safari, only <i>one</i> old bull is sighted."

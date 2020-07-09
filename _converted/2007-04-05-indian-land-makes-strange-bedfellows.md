@@ -1,7 +1,7 @@
 ---
 title: "Indian Land Makes Strange Bedfellows"
 date: "2007-04-05 18:17:49"
-image: "NULL"
+
 last_modified: "2007-04-07 13:32:37"
 description: |
   "How the allure of Indian lands made partners out of Civil War opponents."

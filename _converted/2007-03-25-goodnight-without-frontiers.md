@@ -1,7 +1,7 @@
 ---
 title: "Goodnight Without Frontiers"
 date: "2007-03-25 10:26:17"
-image: "NULL"
+
 last_modified: "2007-03-25 10:27:52"
 description: |
   "A purely reverential portrait of Goodnight by his famed biographer."

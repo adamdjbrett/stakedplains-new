@@ -2,6 +2,8 @@
 main:
   - title: "Home"
     url: /
+  - title: "Intro"
+    url: /intro/
   - title: "About"
     url: /about/
   - title: "Texts"
@@ -14,8 +16,10 @@ main:
     url: /contact/
   - title: "Links"
     url: /links/
-  - title: "Intro"
-    url: /intro/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
   - title: "Credits"
     url: /credits/
   - title: "Bio"

@@ -1,7 +1,7 @@
 ---
 title: "Trail-Blazing: The Dark Side"
 date: "2007-03-21 06:12:23"
-image: "NULL"
+
 last_modified: "2007-03-29 23:05:02"
 description: |
   "Charles Goodnight was a legendary trailblazer before Adair arrived on the scene with financing. For all the romance of his great cattle drives, they have a little known dark side..."

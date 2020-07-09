@@ -1,7 +1,7 @@
 ---
 title: "Cherokee Commission 1889: Pulverizing Indian Country"
 date: "2007-03-31 11:34:33"
-image: "NULL"
+
 last_modified: "2007-04-05 18:47:01"
 description: |
   "After dispossessions - east and west - Indians were shoe-horned into "Indian Country." The next step was to legally atomize it into individual saleable units and destroy collective landholding as the basis of tribal life."

@@ -1,7 +1,7 @@
 ---
 title: "Buffalo or Corn? Corn or Buffalo? Who's on First?"
 date: "2007-02-04 22:06:39"
-image: "NULL"
+
 last_modified: "2007-04-12 14:58:10"
 description: |
   "Hunt Buffalo! Plant Corn! Hunt Buffalo! Reap Corn! The Solutions to the "Indian Question" fly fast and furious. But wherever there is land, only one solution will do..."

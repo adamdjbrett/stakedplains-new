@@ -1,7 +1,7 @@
 ---
 title: "Why Adair Came to America?"
 date: "2007-02-14 13:39:10"
-image: "NULL"
+
 last_modified: "2007-04-11 08:58:03"
 description: |
   "Accounts blandly say he opened a loan brokerage in 1866 in New York; the place where he, a presumably very landed gentleman, meets and marries his presumably very wealthy bride. But <i>why</i> leave Ireland at all?"

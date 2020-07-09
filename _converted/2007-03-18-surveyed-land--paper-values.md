@@ -1,7 +1,7 @@
 ---
 title: "Surveyed Land / Paper Values"
 date: "2007-03-18 20:14:29"
-image: "NULL"
+
 last_modified: "2007-03-29 23:30:37"
 description: |
   "Crony legislation, unappropriated holdings bought with land scrip, and loan-fueled survey teams carved up Indian Country into the Almighty grids and lots that launched the great Cattle Empires."

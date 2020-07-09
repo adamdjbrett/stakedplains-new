@@ -1,7 +1,7 @@
 ---
 title: "Setting the Table...."
 date: "2007-02-04 21:53:14"
-image: "NULL"
+
 last_modified: "2007-02-05 10:30:23"
 description: |
   "The Adair-Goodnight saga is an irrevocable part of a lustrous ranching history; a history made possible by an inseparable siamese twin who cleanses the Plains of buffalo and subjugates the Indians who must hunt them."

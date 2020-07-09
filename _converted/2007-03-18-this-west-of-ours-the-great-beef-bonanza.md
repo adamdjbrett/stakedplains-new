@@ -1,7 +1,7 @@
 ---
 title: "'This West of Ours': The Great Beef Bonanza"
 date: "2007-03-18 13:17:23"
-image: "NULL"
+
 last_modified: "2007-03-29 23:16:53"
 description: |
   "Adair and Goodnight were five years ahead of their time. In 1881, a "Beef Bonanza" was proclaimed by General James S. Brisbin, who stampeded English and American investors with overripe passages from his huge bestseller, <i>The Beef Bonanza, or, How to Get Rich on the Plains</i>..."

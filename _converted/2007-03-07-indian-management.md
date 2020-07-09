@@ -1,7 +1,7 @@
 ---
 title: "Indian Management"
 date: "2007-03-07 14:35:38"
-image: "NULL"
+
 last_modified: "2007-03-29 23:12:06"
 description: |
   "From the memoirs of a soldier who guarded the pacified..."

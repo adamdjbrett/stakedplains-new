@@ -1,7 +1,7 @@
 ---
 title: "The Kill, Phase II: The End"
 date: "2007-03-24 11:51:52"
-image: "NULL"
+
 last_modified: "2007-04-25 14:53:00"
 description: |
   "The great herds of the middle region were wiped out then, and the kill moved south to Texas for its second major phase..."

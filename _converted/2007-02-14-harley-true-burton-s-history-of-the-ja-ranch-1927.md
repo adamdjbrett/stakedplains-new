@@ -1,7 +1,7 @@
 ---
 title: "Harley True Burton's History of the JA Ranch (1927)"
 date: "2007-02-14 22:38:59"
-image: "NULL"
+
 last_modified: "2007-02-14 22:48:13"
 description: |
   "In 1927, Harley True Burton submitted his classic JA Ranch History for his MA Degree."

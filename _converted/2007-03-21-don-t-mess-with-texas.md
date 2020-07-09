@@ -1,7 +1,7 @@
 ---
 title: "Don't Mess with Texas"
 date: "2007-03-21 04:53:56"
-image: "NULL"
+
 last_modified: "2007-03-29 23:22:41"
 description: |
   "The historic existence in Texas of these people [Indians and Tejanos] will always live on in John Wayne films and the distorted history created by Anglo founding fathers such as John Henry Brown. But let us remember that the conqueror first tells the tale of his success. In its retelling, heroism and myth soon dominate. But the truth's reemergence is always in the offing."

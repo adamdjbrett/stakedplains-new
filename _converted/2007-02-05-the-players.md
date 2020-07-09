@@ -1,7 +1,7 @@
 ---
 title: "THE PLAYERS..."
 date: "2007-02-05 10:46:46"
-image: "NULL"
+
 last_modified: "2007-04-15 09:12:32"
 description: |
   "An evolving <b>Who's Who</b> of <i>this</i> Staked Plains/Palo Duro saga and its aftermaths (In progress... Please add your players!)"

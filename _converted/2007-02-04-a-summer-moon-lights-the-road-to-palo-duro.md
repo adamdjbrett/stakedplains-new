@@ -1,7 +1,7 @@
 ---
 title: "A Summer Moon Lights the Road to Palo Duro"
 date: "2007-02-04 22:51:00"
-image: "NULL"
+
 last_modified: "2007-03-28 19:04:14"
 description: |
   "The way through the Staked Plains to and from Palo Duro is a moonlit clash of civilizations."

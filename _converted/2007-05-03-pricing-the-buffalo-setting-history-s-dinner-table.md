@@ -1,7 +1,7 @@
 ---
 title: "Pricing the Buffalo, Setting History's Dinner Table"
 date: "2007-05-03 06:46:41"
-image: "NULL"
+
 last_modified: "2007-05-03 06:56:32"
 description: |
   "Before the hunters invaded Texas, the market had <i>priced</i> the buffalo. The slaughter was so efficient that the remaining herds panicked, and both the hunted and their hunters - outfits led by James White, Mike O'Brian and the Mooar Bros. -- turned southwest, to tragic effect."

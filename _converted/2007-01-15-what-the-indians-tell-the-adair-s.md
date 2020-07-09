@@ -1,7 +1,7 @@
 ---
 title: "What the Indians Tell the Adair's"
 date: "2007-01-15 20:55:14"
-image: "NULL"
+
 last_modified: "2007-03-29 23:03:27"
 description: |
   "In early October 1874, the Adair's meet formally with a band of starving Ogalala Sioux. The couple asks permission to follow behind, so that John can watch how they hunt and bag his own trophy. The Indians' reply is more than they bargained for..."

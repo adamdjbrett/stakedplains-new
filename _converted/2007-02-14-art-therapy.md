@@ -1,7 +1,7 @@
 ---
 title: "Art Therapy"
 date: "2007-02-14 22:05:40"
-image: "NULL"
+
 last_modified: "2007-03-29 23:07:46"
 description: |
   "After the Red River War, 73 Indians were designated as ringleaders of the rebellion and transported, in a reverse Trail of Tears, to Ft. Marion Florida. There, 23 would produce images of their former free lives, known today as Ledger Art..."

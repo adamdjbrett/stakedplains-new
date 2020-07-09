@@ -1,7 +1,7 @@
 ---
 title: "My Own Soil"
 date: "2007-03-25 09:51:04"
-image: "NULL"
+
 last_modified: "2007-03-28 18:59:26"
 description: |
   "All the romance and passion of a landed tradition that eclipsed - but doesn't refer to - the Indian tradition that it supplanted."

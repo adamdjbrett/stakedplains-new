@@ -1,7 +1,7 @@
 ---
 title: "Cornelia's Credo"
 date: "2007-03-07 08:03:48"
-image: "NULL"
+
 last_modified: "2007-03-29 23:10:04"
 description: |
   "So every time has its own special joys, and the great thing is to miss as little as possible, and to share as much."

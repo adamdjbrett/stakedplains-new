@@ -1,7 +1,7 @@
 ---
 title: "Unfolding like the book of Genesis..."
 date: "2007-01-20 02:09:53"
-image: "NULL"
+
 last_modified: "2007-01-20 09:29:42"
 description: |
   "Charlie Goodnight's dream is to ranch the Palo Duro. Hitched to Goodnight's voracious savvy, John Adair's voracious wealth makes it possible. Goodnight's nephew, poet-songwriter Andy Wilkinson, portrays the "man born thirsty for this place"..."

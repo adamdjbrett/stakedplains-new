@@ -1,7 +1,7 @@
 ---
 title: "If God believed in fences, We would not have the wind."
 date: "2007-01-20 09:14:07"
-image: "NULL"
+
 last_modified: "2007-02-05 10:33:31"
 description: |
   "The Adair-Goodnight Project barbed-wires the land. In the Panhandle and beyond, it first eclipses the Indian's hunting grounds, then the Cowboy's free range as well. Andy Wilkinson's song-poem for Standing Bear laments the passing..."

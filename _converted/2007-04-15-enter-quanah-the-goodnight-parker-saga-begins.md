@@ -1,7 +1,7 @@
 ---
 title: "Enter Quanah: The Goodnight-Parker Saga begins"
 date: "2007-04-15 08:05:08"
-image: "NULL"
+
 last_modified: "2007-04-15 08:14:52"
 description: |
   "Quanah Parker was the child of a Commanche father, Peta Nocona, and Cynthia Ann Parker, a white woman. Once Charles Goodnight found their encampment, Quanah would lose his mother forever..."

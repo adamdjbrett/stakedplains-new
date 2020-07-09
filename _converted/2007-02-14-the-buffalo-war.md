@@ -1,7 +1,7 @@
 ---
 title: "The Buffalo War"
 date: "2007-02-14 20:41:57"
-image: "NULL"
+
 last_modified: "2007-05-09 10:58:33"
 description: |
   "As the Adair's hunt buffalo, this pincer operation drives Indians back to their hated reservations, marking the first use of the Gatling gun againts Indians and history's largest recorded horse massacre..."

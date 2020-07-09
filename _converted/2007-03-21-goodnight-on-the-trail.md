@@ -1,7 +1,7 @@
 ---
 title: "Goodnight on the Trail"
 date: "2007-03-21 06:21:38"
-image: "NULL"
+
 last_modified: "2007-03-21 06:24:20"
 description: |
   "Charlie Goodnight, while decidedly brilliant, ruled his great cattle drives like a feudal overlord."

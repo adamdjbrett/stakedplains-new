@@ -1,7 +1,7 @@
 ---
 title: "General Sherman's Credo"
 date: "2007-04-07 10:59:41"
-image: "NULL"
+
 last_modified: "2007-04-07 11:11:45"
 description: |
   "In 1879, Gen. William "Tecumseh" Sherman, took time out from fighting Indians out West to go East and address the Centennial of Gen. Sullivan's 1779 victory over the Iroquois."

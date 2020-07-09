@@ -1,7 +1,7 @@
 ---
 title: "The Kill, Phase I: Last of the Southern Herds"
 date: "2007-03-24 11:28:15"
-image: "NULL"
+
 last_modified: "2007-04-25 14:51:13"
 description: |
   "They caught the scent of water on the air and began a great motion, until the broad shadow lake became a wallow of virtually all the southern herd... The hide men followed a few days later."

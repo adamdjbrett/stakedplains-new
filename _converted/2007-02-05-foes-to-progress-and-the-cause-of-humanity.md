@@ -1,7 +1,7 @@
 ---
 title: "Foes to Progress and the Cause of Humanity"
 date: "2007-02-05 09:20:07"
-image: "NULL"
+
 last_modified: "2007-02-10 08:20:57"
 description: |
   "The eye-popping 1870 conclusion of a 6-month study of Gen. Phil Sheridan's operations against Indians on the Great Plains. Judge for yourself..."

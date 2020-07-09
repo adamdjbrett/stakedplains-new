@@ -1,7 +1,7 @@
 ---
 title: "The Bone Era Begins"
 date: "2007-04-25 14:25:08"
-image: "NULL"
+
 last_modified: "2007-04-25 14:43:57"
 description: |
   "Eyewitness Testimony: How the Buffalo became <b>"The Bone Boom"</b>"

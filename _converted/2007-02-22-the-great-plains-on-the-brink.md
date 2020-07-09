@@ -1,7 +1,7 @@
 ---
 title: "The Great Plains On the Brink"
 date: "2007-02-22 20:17:24"
-image: "NULL"
+
 last_modified: "2007-02-23 04:43:44"
 description: |
   "Back East, settlement required deforestation; out West, it mandated buffalo harvesting."

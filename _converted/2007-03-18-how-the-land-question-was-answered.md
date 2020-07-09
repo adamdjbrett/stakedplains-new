@@ -1,7 +1,7 @@
 ---
 title: "How the Land Question was Answered"
 date: "2007-03-18 19:50:59"
-image: "NULL"
+
 last_modified: "2007-03-21 05:08:40"
 description: |
   "Speculators Jot Gunter and Bill Munson got a law through the Texas Legislature authorizing a man to file on <i>a whole county</i> for one dollar and a half; and, at the end of the year he could renew it. To get the JA, Adair and Goodnight <i>had</i> to go through Gunter and Munson. Here's Goodnight's blow by blow..."

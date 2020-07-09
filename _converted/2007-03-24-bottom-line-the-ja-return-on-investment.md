@@ -1,7 +1,7 @@
 ---
 title: "Bottom Line$: The JA'$ Return on Investment"
 date: "2007-03-24 07:49:17"
-image: "NULL"
+
 last_modified: "2007-04-07 12:20:20"
 description: |
   "To maintain their landed Victorian lifestyle, the Adair's required a Bonanza. Their JA Ranch investment did not disappoint."

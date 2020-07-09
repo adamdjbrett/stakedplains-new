@@ -1,7 +1,7 @@
 ---
 title: "First Light, Last Refuge"
 date: "2007-03-24 02:45:01"
-image: "NULL"
+
 last_modified: "2007-03-29 22:59:09"
 description: |
   "Where buffalo first emerged, free Indians last migrated"

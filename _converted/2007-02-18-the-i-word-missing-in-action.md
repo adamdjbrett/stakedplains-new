@@ -1,7 +1,7 @@
 ---
 title: "The 'I-word': Missing In Action"
 date: "2007-02-18 13:25:16"
-image: "NULL"
+
 last_modified: "2007-02-18 13:49:15"
 description: |
   "The official online description of the current exhibit, "JA: The Paloduro Ranch," forgets the "I-word". (Check back for our coming review of the most important exhibit to date on the JA's legacy and significance...)"

@@ -1,7 +1,7 @@
 ---
 title: "El Requirimiento: Spain's Protocol for Conquest"
 date: "2007-02-12 20:34:27"
-image: "NULL"
+
 last_modified: "2007-04-15 09:11:36"
 description: |
   "Spain declared the New World hers by the Vatican's Doctrine of Discovery. Read aloud to native peoples, in Spanish, by Conquistadors like Coronado, the <i>Requirimiento</i> voices its ultimatum: Indians must recognize the superiority of Christianity and submit, or be warred upon. It was widely read in the period when Coronado trekked through the Staked Plains and Palo Duro."
