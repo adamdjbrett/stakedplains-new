@@ -7,4 +7,4 @@ description: |
   "#"
 ---
 
-The play <i>Equus</i> explores the internal canyons that lead to a boy's slaying of a single horse. Colonel Ranald Mackenzie fell apart, psychically, on the eve before his wedding.
+The play _Equus_ explores the internal canyons that lead to a boy's slaying of a single horse. Colonel Ranald Mackenzie fell apart, psychically, on the eve before his wedding.

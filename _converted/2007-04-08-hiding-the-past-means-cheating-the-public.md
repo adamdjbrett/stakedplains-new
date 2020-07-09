@@ -7,4 +7,4 @@ description: |
   "#"
 ---
 
-The final shot in Stephen Spielberg's <i>Raiders of the Lost Ark</i> reveals the <i>real</i> raiders to be anyone who imprisons our past - by bureaucracy, power or wealth - and keeps it out of public sight and memory.
+The final shot in Stephen Spielberg's _Raiders of the Lost Ark_ reveals the _real_ raiders to be anyone who imprisons our past - by bureaucracy, power or wealth - and keeps it out of public sight and memory.

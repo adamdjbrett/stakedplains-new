@@ -7,7 +7,7 @@ description: |
   "Goodnight's admiring biographer records the inscription engraved on the barrel of young Charlie's "fine rifle" from his days as a Confederate Frontier Regiment member and Indian fighter..."
 ---
 
-'<i>Seek ye first the kingdom of God and His righteousness, and all these things shall be added unto you.</i>'
+'_Seek ye first the kingdom of God and His righteousness, and all these things shall be added unto you._'
 
 Goodnight's Rifle Engraving
 Matthew 6:33

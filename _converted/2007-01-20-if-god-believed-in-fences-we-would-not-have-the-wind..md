@@ -1,12 +1,19 @@
 ---
 title: "If God believed in fences, We would not have the wind."
 date: "2007-01-20 09:14:07"
-
 last_modified: "2007-02-05 10:33:31"
 description: |
   "The Adair-Goodnight Project barbed-wires the land. In the Panhandle and beyond, it first eclipses the Indian's hunting grounds, then the Cowboy's free range as well. Andy Wilkinson's song-poem for Standing Bear laments the passing..."
+categories:
+  - texts
+tags:
+  - staked-plains
+  - palo-duro
+  - history    
 ---
+The Adair-Goodnight Project barbed-wires the land. In the Panhandle and beyond, it first eclipses the Indian's hunting grounds, then the Cowboy's free range as well. Andy Wilkinson's song-poem for Standing Bear laments the passing...
 
+***
 Mi compadre, Buenas Noches,
 Goodnight, my old friend,
 I am wandering in my own land
@@ -43,6 +50,6 @@ Will we be lost like them?
 Mi compadre, Buenas Noches,
 Goodnight, my old friend.
 
-<a href="http://www.andywilkinson.net/cglnwrit.html" title="Andy Wilkinson" target="_blank"> Andy Wilkinson </a>
-<i>Standing Bear's Lament</i>
+[Andy Wilkinson](http://www.andywilkinson.net/cglnwrit.html "Andy Wilkinson")
+_Standing Bear's Lament_
 2002

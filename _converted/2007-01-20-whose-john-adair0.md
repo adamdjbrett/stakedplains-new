@@ -4,10 +4,9 @@ date: "2007-01-20 09:43:06"
 image: "114_t.jpg"
 last_modified: "2007-02-10 10:48:27"
 description: |
-  "John Adair AKA Black Jack"
+  "Jon Adair AKA Black Jack"
 categories:
   - texts
-  - character
 tags:
   - staked-plains
   - palo-duro

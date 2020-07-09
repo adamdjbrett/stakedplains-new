@@ -7,4 +7,4 @@ description: |
   "#"
 ---
 
-The sole road marker to America's worst recorded horse massacre (2 miles to the left). It was an <i>essential</i> link in pacifying the Southern Plains for westward expansion and Manifest Destiny.
+The sole road marker to America's worst recorded horse massacre (2 miles to the left). It was an _essential_ link in pacifying the Southern Plains for westward expansion and Manifest Destiny.

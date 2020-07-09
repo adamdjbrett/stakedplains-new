@@ -12,5 +12,5 @@ There can be no doubt, however, that the most dramatic aspect of Texas history i
 Texans never agreed to accept the existence of western Plains Indians in the state under any circumstances. It was this denial, this refusal to accept ethnic diversity - seemingly inevitable given the Southern code - that condemned Texas to a history of violence and instability. Once started, once viewed as heroic and honorable, such violence was difficult to bring under control - it became simply the price of what Texans perceived as "civilization."
 
 Gary Clayton Anderson
-<i>The Conquest of Texas</i>
+_The Conquest of Texas_
 2005
