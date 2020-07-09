@@ -1,11 +1,19 @@
 ---
 title: "The Kill, Phase II: The End"
 date: "2007-03-24 11:51:52"
-
 last_modified: "2007-04-25 14:53:00"
 description: |
   "The great herds of the middle region were wiped out then, and the kill moved south to Texas for its second major phase..."
+categories:
+  - texts
+tags:
+  - staked-plains
+  - palo-duro
+  - history    
 ---
+description: |
+  "The great herds of the middle region were wiped out then, and the kill moved south to Texas for its second major phase..."
+***
 
 By New Year's Day of 1873, the Santa Fe Railroad completed a phase of work near Dodge City and laid off its crews, creating a glut of men needing money. By spring there were at least two thousand hide hunters in the region. One party of sixteen men killed 28,000 buffalo. The railroads admitted to shipping 1,378,359 hides between 1872 and 1894, but General Nelson A. Miles reported at the time that the kill was closer to 4.5 million.
 

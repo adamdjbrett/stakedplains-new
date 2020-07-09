@@ -1,27 +1,34 @@
 ---
 title: "How the Land Question was Answered"
 date: "2007-03-18 19:50:59"
-
 last_modified: "2007-03-21 05:08:40"
 description: |
   "Speculators Jot Gunter and Bill Munson got a law through the Texas Legislature authorizing a man to file on _a whole county_ for one dollar and a half; and, at the end of the year he could renew it. To get the JA, Adair and Goodnight _had_ to go through Gunter and Munson. Here's Goodnight's blow by blow..."
+categories:
+  - texts
+tags:
+  - staked-plains
+  - palo-duro
+  - history  
 ---
+"Speculators Jot Gunter and Bill Munson got a law through the Texas Legislature authorizing a man to file on _a whole county_ for one dollar and a half; and, at the end of the year he could renew it. To get the JA, Adair and Goodnight _had_ to go through Gunter and Munson. Here's Goodnight's blow by blow..."
+***
 
-From The  Southwestern Historical Quarterly
+From _The  Southwestern Historical Quarterly_
 Vol. XXXI JANUARY, 1928 No. 3:
 
 
-<center>A History of the JA Ranch</center>
-<center>by Harley True Burton</center>
-<center>CHAPTER III</center>
-<center>Formation of Partnership of Goodnight and Adair</center>
+## A History of the JA Ranch
+by Harley True Burton
+CHAPTER III
+Formation of Partnership of Goodnight and Adair
 
 ...The troubles were not ended when they arrived at their destination, because it was just a few days after their arrival that Jot Gunter, a speculator, put in a blanket survey covering the whole section of country which Colonel Goodnight had planned to use for his ranch, and hence, he surveyed them in.
 
-<center>CHAPTER IV  </center>
-<center>Expansion and Growth of the Ranch</center>
+CHAPTER IV  
+Expansion and Growth of the Ranch
 
-<center>PART I.  GROWTH OF THE RANCH</center>
+PART I.  GROWTH OF THE RANCH
 
 In pursuance of the contract made between Adair and Goodnight in 1877, Colonel Goodnight bought the first twelve thousand acres of the J A Ranch from Gunter and Munson in 1877. The rare judgment displayed by Colonel Goodnight in selecting this first twelve thousand acres and in contracting for twelve thousand acres more to be bought the following year spelled success for the enterprise. Colonel Goodnight gives the following account of this transaction:
 

@@ -1,11 +1,18 @@
 ---
 title: "Goodnight Without Frontiers"
 date: "2007-03-25 10:26:17"
-
 last_modified: "2007-03-25 10:27:52"
 description: |
   "A purely reverential portrait of Goodnight by his famed biographer."
+categories:
+  - texts
+tags:
+  - staked-plains
+  - palo-duro
+  - history  
 ---
+  "A purely reverential portrait of Goodnight by his famed biographer."
+***
 
 Now, a hundred and thirteen years after his birth, his massive frame still looms strong among the horsemen of the storied West.
 

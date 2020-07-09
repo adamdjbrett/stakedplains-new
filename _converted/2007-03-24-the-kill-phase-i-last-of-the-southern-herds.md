@@ -1,13 +1,21 @@
 ---
 title: "The Kill, Phase I: Last of the Southern Herds"
 date: "2007-03-24 11:28:15"
-
 last_modified: "2007-04-25 14:51:13"
 description: |
   "They caught the scent of water on the air and began a great motion, until the broad shadow lake became a wallow of virtually all the southern herd... The hide men followed a few days later."
+categories:
+  - texts
+tags:
+  - staked-plains
+  - palo-duro
+  - history  
 ---
 
-In 1877 the Texas bison had retreated to the Staked Plains, the Llano Estacado of Texas and Oklahoma. Among the southern plains tribes, it is widely believed that the bison first sprang from the earth in the canyons here. Archaeological evidence indicates that both bison and bison hunting are ancient in Texas. 
+"They caught the scent of water on the air and began a great motion, until the broad shadow lake became a wallow of virtually all the southern herd... The hide men followed a few days later."
+***
+
+In 1877 the Texas bison had retreated to the Staked Plains, the Llano Estacado of Texas and Oklahoma. Among the southern plains tribes, it is widely believed that the bison first sprang from the earth in the canyons here. Archaeological evidence indicates that both bison and bison hunting are ancient in Texas.
 
 In 1877, the place was deep in one of the West's  periodic droughts. Then there came a meteorological oddity, a waterspout that poured in across the land and built a great shallow lake. The thousands of bison of the Texas herd had been well away from the lake when it formed, but evolved as they had been in a place of drought and wind, they caught the scent of water on the air and began a great motion, until the broad shadow lake became a wallow of virtually all the southern herd.
 
