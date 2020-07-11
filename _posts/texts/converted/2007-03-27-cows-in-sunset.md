@@ -1,7 +1,7 @@
 ---
 title: "Cows in Sunset"
 date: "2007-03-27 20:40:18"
-image: "227_t.jpg"
+image: "227.jpg"
 last_modified: "2007-03-27 20:47:30"
 categories:
   - gallery

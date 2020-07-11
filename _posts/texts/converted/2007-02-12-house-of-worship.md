@@ -1,7 +1,7 @@
 ---
 title: "House of Worship"
 date: "2007-02-12 07:32:14"
-image: "163_t.jpg"
+image: "163.jpg"
 last_modified: "2007-03-10 06:56:40"
 categories:
   - gallery

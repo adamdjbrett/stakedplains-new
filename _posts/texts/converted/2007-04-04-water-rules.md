@@ -1,7 +1,7 @@
 ---
 title: "Water Rules"
 date: "2007-04-04 12:01:12"
-image: "231_t.jpg"
+image: "231.jpg"
 last_modified: "2007-04-08 08:52:59"
 categories:
   - gallery

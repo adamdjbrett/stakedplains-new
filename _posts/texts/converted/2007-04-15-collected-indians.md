@@ -1,7 +1,7 @@
 ---
 title: "Collected Indians"
 date: "2007-04-15 09:29:46"
-image: "264_t.jpg"
+image: "264.jpg"
 last_modified: "2007-04-15 09:34:10"
 categories:
   - gallery

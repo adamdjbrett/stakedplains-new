@@ -1,7 +1,7 @@
 ---
 title: "Ancestral"
 date: "2007-06-16 05:51:53"
-image: "282_t.jpg"
+image: "282.jpg"
 last_modified: "2007-06-16 05:56:59"
 categories:
   - gallery

@@ -1,7 +1,7 @@
 ---
 title: "National Heritage Site"
 date: "2007-02-08 15:51:13"
-image: "156_t.jpg"
+image: "156.jpg"
 last_modified: "2007-02-08 15:57:23"
 categories:
   - gallery

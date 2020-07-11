@@ -1,7 +1,7 @@
 ---
 title: "Whose John Adair?"
 date: "2007-01-20 09:43:06"
-image: "114_t.jpg"
+image: "114.jpg"
 last_modified: "2007-02-10 10:48:27"
 description: |
   "Jon Adair AKA Black Jack"

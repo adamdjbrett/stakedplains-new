@@ -1,7 +1,7 @@
 ---
 title: "Redeeming the Future"
 date: "2007-04-14 08:40:17"
-image: "258_t.jpg"
+image: "258.jpg"
 last_modified: "2007-04-14 08:42:24"
 description: |
   "#"

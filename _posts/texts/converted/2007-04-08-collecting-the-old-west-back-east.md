@@ -1,7 +1,7 @@
 ---
 title: "Collecting the Old West, Back East"
 date: "2007-04-08 06:59:02"
-image: "248_t.jpg"
+image: "248.jpg"
 last_modified: "2007-04-08 08:55:29"
 categories:
   - texts

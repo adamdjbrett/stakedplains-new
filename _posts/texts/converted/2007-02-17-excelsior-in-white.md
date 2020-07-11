@@ -1,7 +1,7 @@
 ---
 title: "Excelsior in White"
 date: "2007-02-17 17:19:13"
-image: "180_t.jpg"
+image: "180.jpg"
 last_modified: "2007-02-17 17:20:13"
 description: |
   "Remnants of the Buffalo Wars"

@@ -1,7 +1,7 @@
 ---
 title: "Fateful Text"
 date: "2007-03-08 19:18:04"
-image: "189_t.jpg"
+image: "189.jpg"
 last_modified: "2020-07-05"
 categories:
   - gallery

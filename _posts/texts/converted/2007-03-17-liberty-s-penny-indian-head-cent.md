@@ -1,7 +1,7 @@
 ---
 title: "Liberty's Penny: Indian Head Cent"
 date: "2007-03-17 15:14:11"
-image: "204_t.jpg"
+image: "204.jpg"
 last_modified: "2007-03-24 02:12:51"
 categories:
   - gallery

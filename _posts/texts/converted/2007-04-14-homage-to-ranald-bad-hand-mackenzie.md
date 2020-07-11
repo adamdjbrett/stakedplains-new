@@ -1,7 +1,7 @@
 ---
 title: Homage to Ranald "Bad Hand" Mackenzie
 date: "2007-04-14 11:37:02"
-image: "259_t.jpg"
+image: "259.jpg"
 last_modified: "2007-04-14 11:41:22"
 categories:
   - gallery

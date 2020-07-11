@@ -1,7 +1,7 @@
 ---
 title: "At the Far Side of History"
 date: "2007-01-28 08:29:01"
-image: "134_t.jpg"
+image: "134.jpg"
 last_modified: "2007-01-28 08:33:57"
 categories:
   - gallery

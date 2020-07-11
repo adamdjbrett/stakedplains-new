@@ -1,7 +1,7 @@
 ---
 title: "That Vision Thing..."
 date: "2007-02-10 10:46:07"
-image: "161_t.jpg"
+image: "161.jpg"
 last_modified: "2007-03-12 12:15:04"
 categories:
   - gallery

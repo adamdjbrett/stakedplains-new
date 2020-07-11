@@ -1,7 +1,7 @@
 ---
 title: "Consumption"
 date: "2007-03-13 07:58:06"
-image: "199_t.jpg"
+image: "199.jpg"
 last_modified: "2007-04-15 09:36:04"
 categories:
   - gallery

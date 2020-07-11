@@ -1,7 +1,7 @@
 ---
 title: "Sheridan's Block"
 date: "2007-02-10 11:34:48"
-image: "162_t.jpg"
+image: "162.jpg"
 last_modified: "2007-02-10 11:39:44"
 categories:
   - gallery

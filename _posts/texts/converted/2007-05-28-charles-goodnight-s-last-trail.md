@@ -1,7 +1,7 @@
 ---
 title: "Charles Goodnight's Last Trail"
 date: "2007-05-28 07:25:53"
-image: "281_t.jpg"
+image: "281.jpg"
 last_modified: "2007-05-28 07:30:50"
 categories:
   - gallery

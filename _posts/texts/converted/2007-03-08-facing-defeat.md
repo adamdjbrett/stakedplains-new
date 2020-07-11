@@ -1,7 +1,7 @@
 ---
 title: "Facing Defeat"
 date: "2007-03-08 19:01:14"
-image: "188_t.jpg"
+image: "188.jpg"
 last_modified: "2007-04-09 14:13:11"
 categories:
   - gallery

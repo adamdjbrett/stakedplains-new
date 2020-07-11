@@ -1,7 +1,7 @@
 ---
 title: "Sheridan Observed"
 date: "2007-02-08 16:29:46"
-image: "158_t.jpg"
+image: "158.jpg"
 last_modified: "2007-03-18 11:36:55"
 categories:
   - gallery

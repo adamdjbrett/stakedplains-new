@@ -1,7 +1,7 @@
 ---
 title: "The Coming of the Brand"
 date: "2007-01-17 20:41:21"
-image: "108_t.jpg"
+image: "108.jpg"
 last_modified: "2007-03-29 23:28:12"
 categories:
   - texts

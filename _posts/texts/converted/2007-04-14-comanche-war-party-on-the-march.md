@@ -1,7 +1,7 @@
 ---
 title: "Comanche War Party on the March"
 date: "2007-04-14 08:18:06"
-image: "255_t.jpg"
+image: "255.jpg"
 last_modified: "2007-04-14 08:30:36"
 categories:
   - gallery

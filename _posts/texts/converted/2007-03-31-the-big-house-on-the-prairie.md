@@ -1,7 +1,7 @@
 ---
 title: "The Big House on the Prairie"
 date: "2007-03-31 13:58:30"
-image: "230_t.jpg"
+image: "230.jpg"
 last_modified: "2020-07-05"
 categories:
   - gallery

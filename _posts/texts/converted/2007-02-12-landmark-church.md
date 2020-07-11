@@ -1,7 +1,7 @@
 ---
 title: "Landmark Church"
 date: "2007-02-12 07:45:28"
-image: "164_t.jpg"
+image: "164.jpg"
 last_modified: "2007-02-12 07:47:20"
 categories:
   - gallery

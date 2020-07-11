@@ -1,7 +1,7 @@
 ---
 title: "Cornelia Adair, at Rest"
 date: "2007-02-15 06:53:57"
-image: "178_t.jpg"
+image: "178.jpg"
 last_modified: "2007-02-15 06:55:44"
 categories:
   - gallery

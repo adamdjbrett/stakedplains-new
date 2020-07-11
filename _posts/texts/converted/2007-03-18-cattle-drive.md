@@ -1,7 +1,7 @@
 ---
 title: "Cattle Drive"
 date: "2007-03-18 09:44:35"
-image: "205_t.jpg"
+image: "205.jpg"
 last_modified: "2007-03-18 19:27:40"
 categories:
   - gallery

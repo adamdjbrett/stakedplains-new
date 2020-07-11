@@ -1,7 +1,7 @@
 ---
 title: "End of the Open Range"
 date: "2007-08-20 09:30:21"
-image: "284_t.jpg"
+image: "284.jpg"
 last_modified: "2007-08-20 09:34:30"
 categories:
   - gallery

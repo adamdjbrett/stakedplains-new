@@ -1,7 +1,7 @@
 ---
 title: "Comanche Chasing Buffalo"
 date: "2007-04-14 08:22:28"
-image: "256_t.jpg"
+image: "256.jpg"
 last_modified: "2007-04-14 08:28:17"
 categories:
   - texts

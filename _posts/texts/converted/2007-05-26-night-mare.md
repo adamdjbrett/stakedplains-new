@@ -1,7 +1,7 @@
 ---
 title: "Night Mare"
 date: "2007-05-26 23:20:54"
-image: "279_t.jpg"
+image: "279.jpg"
 last_modified: "2007-05-26 23:23:06"
 categories:
   - gallery

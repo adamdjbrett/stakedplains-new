@@ -1,7 +1,7 @@
 ---
 title: "Good Fences Make Good Neighbors"
 date: "2007-03-25 01:09:15"
-image: "221_t.jpg"
+image: "221.jpg"
 last_modified: "2007-03-25 19:29:50"
 categories:
   - gallery

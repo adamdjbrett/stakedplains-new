@@ -1,7 +1,7 @@
 ---
 title: "No water, no future"
 date: "2007-04-14 06:56:37"
-image: "253_t.jpg"
+image: "253.jpg"
 last_modified: "2007-04-25 13:57:31"
 categories:
   - gallery

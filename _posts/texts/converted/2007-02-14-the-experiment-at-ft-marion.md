@@ -1,7 +1,7 @@
 ---
 title: "The Experiment at Ft Marion"
 date: "2007-02-14 21:49:02"
-image: "174_t.jpg"
+image: "174.jpg"
 last_modified: "2007-02-14 21:51:33"
 categories:
   - gallery

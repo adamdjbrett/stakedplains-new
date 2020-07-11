@@ -1,7 +1,7 @@
 ---
 title: "The HQ, Then & Now"
 date: "2007-03-11 17:47:51"
-image: "196_t.jpg"
+image: "196.jpg"
 last_modified: "2007-03-11 18:21:46"
 categories:
   - gallery

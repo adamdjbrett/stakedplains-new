@@ -1,7 +1,7 @@
 ---
 title: "Equus: In Memory of the Horses"
 date: "2007-01-16 22:25:33"
-image: "107_t.jpg"
+image: "107.jpg"
 last_modified: "2007-03-08 19:35:53"
 categories:
   - texts

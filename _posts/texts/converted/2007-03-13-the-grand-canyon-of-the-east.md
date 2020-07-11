@@ -1,7 +1,7 @@
 ---
 title: "The Grand Canyon of the East"
 date: "2007-03-13 10:57:03"
-image: "203_t.jpg"
+image: "203.jpg"
 last_modified: "2007-03-13 11:06:18"
 categories:
   - gallery
