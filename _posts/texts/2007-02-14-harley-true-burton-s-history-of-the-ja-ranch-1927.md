@@ -11,7 +11,8 @@ tags:
   - palo-duro
   - history  
 ---
-In 1927, Harley True Burton submitted his classic JA Ranch History for his MA Degree.
+In 1927, Harley True Burton submitted his classic JA Ranch History for his MA Degree. [wordlcat](https://www.worldcat.org/title/history-of-the-j-a-ranch/oclc/8073264&referer=brief_results)
+
 ***
 
 It shall be my purpose to give as complete a history as is possible with the information I have in hand of the first cattle ranch established in the Panhandle of Texas.

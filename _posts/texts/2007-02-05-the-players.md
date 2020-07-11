@@ -3,7 +3,7 @@ title: "THE PLAYERS..."
 date: "2007-02-05 10:46:46"
 last_modified: "2007-04-15 09:12:32"
 description: |
-  "An evolving ## Who's Who of _this_ Staked Plains/Palo Duro saga and its aftermaths."
+  "An evolving Who’s Who of _this_ Staked Plains/Palo Duro saga and its aftermaths."
 categories:
   - texts
   - character
@@ -12,9 +12,9 @@ tags:
   - palo-duro
   - history    
 ---
-An evolving ## Who's Who of _this_ Staked Plains/Palo Duro saga and its aftermaths (In progress... Please add your players!)
+An evolving Who's Who of _this_ Staked Plains/Palo Duro saga and its aftermaths (In progress... Please add your players!)
 ***
-
+![Decorative Image](/images/gallery/section_1.jpg)
 
 ## John George Adair
 A notorious Irish evictor who comes to America in 1866, marries a New York society widow, Cornelia Wadsworth Ritchie, and, together, return to America where they invest royally in  Texas Cattle Ranching. This allows them to maintain a high Victorian lifestyle based, ultimately, on Sheridan-Mackenzie's dispossession of Commancheria from the Panhandle and, specifically, from Palo Duro Canyon.

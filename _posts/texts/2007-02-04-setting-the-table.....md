@@ -11,6 +11,7 @@ tags:
   - palo-duro
   - history    
 ---
+![Decorative Image](/images/gallery/section_3.jpg)
 
 After the Battle of the Washita in December, 1868, General Sherman ordered all Cheyennes, Arapahos, Kiowas and Commanches to come in to Fort Cobb and surrender, or face extinction by being hunted down and killed by his Bluecoat soldiers.  Little Robe...brought in the Cheyennes. Yellow Bear brought in the Arapahos. A few Commanche leaders - notably Tosawi, who was told by [General] Sheridan that the only good Indian was a dead Indian - also came to surrender. The proud and free Kiowas, however, gave no sign of cooperating, and Sheridan sent Hard Backsides Custer to force them to surrender or to destroy them.
 

@@ -13,7 +13,7 @@ tags:
 ---
 The way through the Staked Plains to and from Palo Duro is a moonlit clash of civilizations.
 ***
-
+![Decorative Image](/images/gallery/section_7.jpg)
 
 In the Summer Moon of 1870, the Kiowas held a big sun dance on the North Fork of Red River. They invited the Commanches and Southern Cheyenne to come as guests, and during the ceremonies many disillusioned warriors talked of staying out on the Plains and living in plenty with buffalo instead of returning to the reservation for meager handouts...
 

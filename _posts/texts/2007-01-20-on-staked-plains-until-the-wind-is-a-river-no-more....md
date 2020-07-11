@@ -12,6 +12,7 @@ tags:
   - history   
 ---
 The "Llano Estacado" - Staked Plains - is the name affixed by the Conquistadors to an unquenchable western vastness. They were far from _empty_ plains. Andy Wilkinson's song-poem conjures some of its spirit(s)...
+![Decorative Image](/images/gallery/section_2.jpg)
 
 ***
 The wind is the oldest river, rhythmic,
