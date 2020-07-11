@@ -5,7 +5,7 @@ header:
   image: /images/gallery/107.jpg
 last_modified: "2007-03-08 19:35:53"
 categories:
-  - texts
+  - gallery
 tags:
   - staked-plains
   - palo-duro

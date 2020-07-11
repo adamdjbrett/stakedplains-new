@@ -7,7 +7,7 @@ last_modified: "2007-03-11 18:13:28"
 description: |
   "Reaching Chicago, the Adair's are briefed by Sheridan on the state of Indian warfare to the South. Because it's dangerous, they also get a cavalry escort to go hunting. After all, Mrs. Adair's brother, Craig, was serving on Sheridan's staff; and he knew her father James, a hero-General slain in the Civil War. Their eyes may well have opened to the emerging post-Indian commercial opportunity."
 categories:
-  - texts
+  - gallery
 tags:
   - staked-plains
   - palo-duro

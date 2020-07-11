@@ -7,7 +7,7 @@ last_modified: "2007-02-10 10:48:27"
 description: |
   "Jon Adair AKA Black Jack"
 categories:
-  - texts
+  - gallery
 tags:
   - staked-plains
   - palo-duro
