@@ -1,5 +1,5 @@
 ---
-title: "Contact is Made: Spring 1007"
+title: "Contact is Made: Spring 2007"
 date: "2007-05-12 03:32:05"
 header:
   image: /images/gallery/276.jpg
