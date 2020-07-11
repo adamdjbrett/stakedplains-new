@@ -4,6 +4,8 @@ excerpt_separator: "<!--more-->"
 categories:
   - events
 permalink: /past-events/
+categories:
+  - blog-archive
 tags:
   - presentations
 ---
