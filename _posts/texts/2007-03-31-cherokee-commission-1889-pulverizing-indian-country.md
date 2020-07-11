@@ -18,6 +18,6 @@ Authorized by Congress in 1889, the Cherokee Commission was formed to negotiate 
 
 Often called the Jerome Commission after its leading negotiator, David H. Jerome, the commission intimidated Indians into first accepting allotment in severalty and then selling to the United States, at price, the fifteen million acres declared surplus after allotment. This land then went to white settlers, making possible the statehood of Oklahoma at the expense of the Indian tribes who had held claim to it.
 
-William Thomas Hagan
-Summary of his _Taking Indian Lands_
+William Thomas Hagan  \\
+Summary of his _Taking Indian Lands_  \\
 2003

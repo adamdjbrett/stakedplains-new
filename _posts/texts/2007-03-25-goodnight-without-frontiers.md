@@ -20,6 +20,6 @@ He rode horseback from Illinois to Texas when he was nine years old. He was hunt
 
 He always rode beyond the borderlands, upon ranges of unspoiled grass... The vast and changing coutry over which he moved, the fertility of a mind quickly grasped the significance of climate and topography, the inexhaustible engery of his mind and body, and the long period through which he constantly applied himself to the Western World, operated to produce in this man  an ample nature surpassing many of the more famous characters of frontier history.
 
-J. Evetts Haley
-_Charles Goodnight, Cowman and Plainsman_
+J. Evetts Haley  \\
+_Charles Goodnight, Cowman and Plainsman_  \\
 1949

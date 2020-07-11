@@ -18,6 +18,6 @@ I may say in reference to the management of Indians, the reservation system is t
 
 After the wild Indians are put upon the reservations, a strong military force will have to be kept there to protect the agents and others required in the work of civilization, and also for the subordination of the Indians, and their protection against the encroachments of the white settlers, who otherwise would take possession of their lands."
 
-Gen. Phil Sheridan
-Chicago, Illinois
+Gen. Phil Sheridan  \\
+Chicago, Illinois  \\
 1870

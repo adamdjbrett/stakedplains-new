@@ -23,6 +23,6 @@ The hide men followed a few days later, at first thirsty themselves, hectoring o
 
 By 1878, the southern herd was gone, save a relict band that was to roam the plains until a cowboy spotted and fired on them in 1886. A hunting party took all of them, fifty-two animals, that winter.
 
-Richard Manning
-_Grassland_
+Richard Manning  \\
+_Grassland_  \\
 1995

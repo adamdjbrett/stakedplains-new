@@ -18,6 +18,6 @@ At Ft. Sill the Indians we guarded on the extensive reservation were the Comanch
 
 They received from the Government an allowance of clothing, rations, etc. These supplies were issue to them by the Indian agent, who was an Interior Department official and not under the control of the War Deparmrnet. The beef was issued on the hoof, and slaughtered by the Indians. The Indians eked out the food thus supplied by gathering and storing  berries, wild plums, roots, etc. In summer they were permitted to go under escort of soldiers to the buffalo country, some forty to a hundred miles west of Fort Sill, where they killed great numbers of buffalo, drying the meat. The skins they sold to the Indian trader, who paid from five to ten dollars apiece for them, according to quality.
 
-Gen. James Parker
-_The Old Army_
+Gen. James Parker  \\
+_The Old Army_  \\
 Memoirs 1872-1918

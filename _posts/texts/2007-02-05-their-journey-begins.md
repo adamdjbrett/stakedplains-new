@@ -16,6 +16,6 @@ On August 30th, 1874, the Adair's take the Great Southern & Western Railway(!) t
 
 August 30th 1874 - We left Portarlington this morning, and ran down to Queenstown very comfortably in almost the only quick train in Ireland - the Sunday "American Mail," as it is called.
 
-Cornelia Adair
-_My Diary_
+Cornelia Adair  \\
+_My Diary_  \\
 August 30, 1874

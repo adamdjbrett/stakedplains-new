@@ -18,6 +18,6 @@ Above all the bottomless resource of the buffalo herds which had supported their
 
 Deforestation had been the necessary preliminary to settlement in the temperate United States; the buffalo holocaust was the equivalent precondition to the opening of the plains. It was immeasurably easier and it had the direct side-effect of forcing the Indians to choose between acceptance of dependency on the whites through the reservation system or increasingly desperate armed resistance.
 
-John Keegan
-_Fields of Battle: The Wars for North America_
+John Keegan  \\
+_Fields of Battle: The Wars for North America_  \\
 1995

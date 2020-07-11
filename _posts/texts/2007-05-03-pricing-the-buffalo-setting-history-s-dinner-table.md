@@ -18,6 +18,6 @@ About 1871 the packers came to fully realize the superiority of buffalo meat, an
 
 There is no way of approximating the number of buffalo in the  United States when the great slaughter began. The records show that more than 3,5000,000 hides were marketed, but these records by no means show the total number of hides sold, to say nothing of the thousands of buffalo that were wantonly slaughtered but never skinned, thus going totally to waste.
 
-Don Hampton Biggers
-_Pictures of the Past_
+Don Hampton Biggers  \\
+_Pictures of the Past_  \\
 1902

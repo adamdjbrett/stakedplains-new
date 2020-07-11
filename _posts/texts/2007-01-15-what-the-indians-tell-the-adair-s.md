@@ -23,6 +23,6 @@ It makes my heart feel glad to see a lot of big men sitting down with us. I will
 
 "This is all I have to say."
 
-Fire Thunder (Ogalala Sioux)
-October 8, 1874
-On the South Platte River
+Fire Thunder (Ogalala Sioux)   \\
+October 8, 1874  \\
+On the South Platte River 

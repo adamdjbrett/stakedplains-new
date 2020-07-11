@@ -16,6 +16,6 @@ Civilization is extending in opposite directions, Westward across the great Vall
 
 The struggle has come, to solve, for all time, the question whether the white or the red man shall prevail in the vast intermediate region between Eastern and Western civilization. The exigencies of modern civilzation point to the inevitable doom of the aboriginal people of the United Stats. Their savage natures, incapable of restraint, render them by instinct foes to progress and the cause of humanity. As with the buffalo, the approach of civilzaiton is to them the knell of destruction. As the murderous bullet of the white hunter ruthlessly slaughters the buffalo, so the vices of civilization carry off those of the red men who have outlived their kindred.
 
-DeB. Randolph Keim
-_Sheridan's Troopers on the Borders_
+DeB. Randolph Keim  \\
+_Sheridan's Troopers on the Borders_  \\
 1870

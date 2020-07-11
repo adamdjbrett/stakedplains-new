@@ -22,6 +22,6 @@ Goodnight and Loving were planning too long a drive and too hard a trip to permi
 >
     But everyone else was busy, and Fowler had to go on acting as an unwilling butcher. Goodnight was understanding, but he had too many worries to spend too much time lamenting the fate of the calves or sympathizing with their executioner.
 
-Philip Durham & Everett L. Jones
-_The Negro Cowboys_
+Philip Durham & Everett L. Jones  \\
+_The Negro Cowboys_  \\
 1965

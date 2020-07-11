@@ -19,6 +19,6 @@ By New Year's Day of 1873, the Santa Fe Railroad completed a phase of work near 
 
    The great herds of the middle region were wiped out then, and the kill moved south to Texas for its second major phase. Fort Worth replaced Dodge as teh trade center only three years after trade at Dodge had begun. In the fall of 1875, Tom Nixon set a new record for the southern hunters. From September 15 to October 20, he alone killed 2,173 bison. The following year a London newspaper would label the hunting "a scandal to civilization," a protest that was echoed on this continent. But it was already becoming clar the scandal ran much deeper than an assault on wildlife. It was not so much a scandal to civilization as it was the imposition of civilization.
 
-Richard Manning
-_Grassland_
+Richard Manning  \\
+_Grassland_  \\
 1995

@@ -16,6 +16,6 @@ tags:
 
 '_Seek ye first the kingdom of God and His righteousness, and all these things shall be added unto you._'
 
-Goodnight's Rifle Engraving
-Matthew 6:33
+Goodnight's Rifle Engraving  \\
+Matthew 6:33  \\
 The Holy Bible

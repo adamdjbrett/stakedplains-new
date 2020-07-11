@@ -22,6 +22,6 @@ Battles are not measured by their death-roll, but by their results, and it makes
 
 I know it is a very common, and too common a practice, to accuse General Sullivan of having destroyed peach trees and cornfields, and all that nonsense. He had to do it, and he did do it. Why does the Almighty strike down the tree with lightning? Why does [440] He bring forth the thunder storm? To purify the air, so that the summer time may come, and the harvest and the fruits. And so with war. When all things ought to be peaceful, war comes and purifies the atmosphere. So it was with our Civil War; that purified the atmosphere; we are better for it; you are better for it; we are all better for it. Wherever men raise up their hands to oppose this great advancing tide of civilization, they must be swept aside, peaceably if possible, forcibly if we must..."
 
-Gen. William "Tecumseh" Sherman
-Elmira, New York
+Gen. William "Tecumseh" Sherman  \\
+Elmira, New York  \\
 1879

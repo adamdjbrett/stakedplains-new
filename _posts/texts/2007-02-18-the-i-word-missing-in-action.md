@@ -16,8 +16,8 @@ tags:
 
 This exhibit will mark the 130th anniversary of the JA Ranch and include the history from the arrival of Charles Goodnight in 1876 to the present.  The introduction will briefly discuss Palo Duro Canyon before the establishment of the ranch.  A section will be devoted to Charles Goodnight and his wife Mary Ann Dyer Goodnight and their importance in the establishment and early history of the ranch and their "saving" the bison.  John and Cornelia Wadsworth Ritchie Adair will be spotlighted, as will Mrs. Ritchie's grandson Montgomery H. Wadsworth Ritchie who operated the JA during much of the 20th century. Paloduro is one word, as it was in the contract between Goodnight and Adair.
 
-"JA: The Paloduro Ranch"
-Online Exhibition Description
-Panhandle Plains Museum
-Canyon, TX
+"JA: The Paloduro Ranch"  \\
+Online Exhibition Description  \\
+Panhandle Plains Museum  \\
+Canyon, TX  \\
 February 2007

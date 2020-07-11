@@ -22,6 +22,6 @@ On September 29th reveille was late. Immediately after breakfast a detail was ma
 
 It took Lawton the most of one day, with one troop, to pile these bodies up on the plains. They were still there-on the "Tex" Rogers ranch some years ago-an enigma to the average Texas boy who looked upon them with wondering eyes."
 
-Captain R. G. Carter
-_On the Border with Mackenzie, Or Winning West Texas from the Commanches_
+Captain R. G. Carter  \\
+_On the Border with Mackenzie, Or Winning West Texas from the Commanches_  \\
 1935

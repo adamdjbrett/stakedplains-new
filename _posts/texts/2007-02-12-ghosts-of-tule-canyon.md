@@ -17,6 +17,6 @@ tags:
 
 What remained on that field was a meat shop, a deathscape out of Breughel... People confronted with massacres at first want to know how many died - a little later some of them begin to want to know why.
 
-Larry McMurtry
-_Oh What a Slaughter_
+Larry McMurtry  \\
+_Oh What a Slaughter_  \\
 2005

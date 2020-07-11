@@ -16,6 +16,6 @@ tags:
 
 I think it may be interesting to compare what was done in 1874 with what will be done by the time the children are able to travel. No doubt they will do their journeys by air, and do many, many things that I have not been able to do; but they can never see the prairies of America in their wild uncivilised state, or hunt buffalo over them, nor can they pow-wow with the Red Indians in a camp on the Platte River. So every time has its own special joys, and the great thing is to miss as little as possible, and to share as much.
 
-Cornelia Adair
-_My Diary_
+Cornelia Adair  \\
+_My Diary_  \\
 1874
