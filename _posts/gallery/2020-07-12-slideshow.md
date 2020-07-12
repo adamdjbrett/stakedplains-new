@@ -30,4 +30,4 @@ slideshow:
 
 ---
 
-{% include gallery caption="slideshow slideshow" %}
+{% include gallery caption="slideshow gallery" %}
