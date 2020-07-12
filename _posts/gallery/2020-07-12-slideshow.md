@@ -1,7 +1,7 @@
 ---
 title: "Slideshow"
 categories:
-  - slideshow
+  - gallery
 tags:
   - staked-plains
   - palo-duro
