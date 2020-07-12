@@ -51,6 +51,3 @@ gallery:
 "Where and how our fates are linked"
 
 {% include gallery caption="Dispossessions" %}
-
-## Relentless
-![moving gif](/images/gallery/38.gif)
