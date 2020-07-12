@@ -43,10 +43,10 @@ gallery:
     image_path: /images/gallery/157_tn.jpg
     alt: "Scorched Earth"
     title: "Scorched Earth"   
-  - url: /images/gallery/158.jpg
-    image_path: /images/gallery/158_tn.jpg
+  - url: /images/gallery/58.jpg
+    image_path: /images/gallery/58_tn.jpg
     alt: "Katrina"
-    title: "Katrina"
+    title: "Hurricane Katrina Survivors"
 ---
 "Where and how our fates are linked"
 
