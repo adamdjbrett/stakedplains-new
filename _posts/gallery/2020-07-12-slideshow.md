@@ -1,33 +1,33 @@
 ---
 title: "Slideshow"
 categories:
-  - gallery
+  - slideshow
 tags:
   - staked-plains
   - palo-duro
   - history
-gallery:
-  - image_path: /images/gallery/42_tn.jpg
-    url: /images/gallery/42.jpg
-  - image_path: /images/gallery/adairswife3_tn.jpg
-    url: /images/gallery/adairswife3.jpg
-  - image_path: /images/gallery/caonyon2_tn.jpg
-    url: /images/gallery/caonyon2.jpg
-  - image_path: /images/gallery/commanche_tn.jpg
-    url: /images/gallery/commanche.jpg
-  - image_path: /images/gallery/conquistadors_tn.jpg
-    url: /images/gallery/conquistadors.jpg
-  - image_path: /images/gallery/equess_tn.jpg
-    url: /images/gallery/equess.jpg
-  - image_path: /images/gallery/goodnight_tn.jpg
-    url: /images/gallery/goodnight.jpg
-  - image_path: /images/gallery/lastcommanche_tn.jpg
-    url: /images/gallery/lastcommanche.jpg
-  - image_path: /images/gallery/redriver_tn.jpg
-    url: /images/gallery/redriver.jpg
-  - image_path: /images/gallery/thennow_tn.jpg
-    url: /images/gallery/thennow.jpg    
+slideshow:
+  - image_path: /images/slideshow/42_tn.jpg
+    url: /images/slideshow/42.jpg
+  - image_path: /images/slideshow/adairswife3_tn.jpg
+    url: /images/slideshow/adairswife3.jpg
+  - image_path: /images/slideshow/caonyon2_tn.jpg
+    url: /images/slideshow/caonyon2.jpg
+  - image_path: /images/slideshow/commanche_tn.jpg
+    url: /images/slideshow/commanche.jpg
+  - image_path: /images/slideshow/conquistadors_tn.jpg
+    url: /images/slideshow/conquistadors.jpg
+  - image_path: /images/slideshow/equess_tn.jpg
+    url: /images/slideshow/equess.jpg
+  - image_path: /images/slideshow/goodnight_tn.jpg
+    url: /images/slideshow/goodnight.jpg
+  - image_path: /images/slideshow/lastcommanche_tn.jpg
+    url: /images/slideshow/lastcommanche.jpg
+  - image_path: /images/slideshow/redriver_tn.jpg
+    url: /images/slideshow/redriver.jpg
+  - image_path: /images/slideshow/thennow_tn.jpg
+    url: /images/slideshow/thennow.jpg    
 
 ---
 
-{% include gallery caption="Slideshow gallery" %}
+{% include slideshow caption="Slideshow slideshow" %}
