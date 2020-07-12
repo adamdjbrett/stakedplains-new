@@ -1,5 +1,5 @@
 ---
-title: Texts
+title: Characters
 layout: category
 taxonomy: characters
 permalink: /characters/

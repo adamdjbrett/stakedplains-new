@@ -6,7 +6,7 @@ description: |
   "Accounts blandly say he opened a loan brokerage in 1866 in New York; the place where he, a presumably very landed gentleman, meets and marries his presumably very wealthy bride. But _why_ leave Ireland at all?"
 categories:
   - texts
-  - character
+  - characters
 tags:
   - staked-plains
   - palo-duro

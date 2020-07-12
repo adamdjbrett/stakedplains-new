@@ -28,3 +28,18 @@ main:
     url: /privacy/
   - title: "Sitemap"
     url: /sitemap/
+
+#sidebar blog
+sidebar-blog:
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+  - title: "Gallery"
+    url: /gallery/
+  - title: Texts
+    url: /texts/
+  - title: Maps
+    url: /maps/
+  - title: "Characters"
+    url: /characters/

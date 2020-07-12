@@ -5,7 +5,7 @@ header:
   image: /images/gallery/128.jpg"
 last_modified: "2007-03-12 12:10:12"
 categories:
-  - character
+  - characters
   - gallery
 tags:
   - staked-plains

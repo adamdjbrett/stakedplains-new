@@ -6,7 +6,7 @@ description: |
   "An evolving Who’s Who of _this_ Staked Plains/Palo Duro saga and its aftermaths."
 categories:
   - texts
-  - character
+  - characters
 tags:
   - staked-plains
   - palo-duro
