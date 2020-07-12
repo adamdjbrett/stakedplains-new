@@ -11,4 +11,6 @@ tags:
   - palo-duro
   - history   
 ---
+![115](/images/gallery/115.jpg)    
+
 Here lies the JA Ranch's founder and owner, the so-called ["English aristocrat"](http://www.tsha.utexas.edu/handbook/online/articles/JJ/apj1.html "English aristocrat") named John Adair, in his native Irish soil. Far eclipsed by Goodnight's shadow, he's been all of a footnote to Texas history.

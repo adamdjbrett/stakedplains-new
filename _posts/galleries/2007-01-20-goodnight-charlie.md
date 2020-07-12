@@ -11,6 +11,7 @@ tags:
   - palo-duro
   - history  
 ---
+![111](/images/gallery/111.jpg)    
 
 Goodnight's extraordinary journey was entwined with the Buffalo's. Some call him "_the_ savior of the buffalo" for preserving a few for breeding, this after having them driven out of his section of Palo Duro Canyon. Others credit his wife Molly for saving a few. They became the basis of today's Texas State herd. This aspect of the Goodnight legend remains a touchy issue, open to debate.
 

@@ -31,17 +31,17 @@ main:
 
 #sidebar blog
 sidebar-blog:
-  title: "Content"
-  children:
-    - title: "Categories"
-      url: /categories/
-    - title: "Tags"
-      url: /tags/
-    - title: "Gallery"
-      url: /gallery/
-    - title: Texts
-      url: /texts/
-    - title: Maps
-      url: /maps/
-    - title: "Characters"
-      url: /characters/
+  - title: Getting Started
+    children:
+      - title: "Categories"
+        url: /categories/
+      - title: "Tags"
+        url: /tags/
+      - title: "Gallery"
+        url: /gallery/
+      - title: Texts
+        url: /texts/
+      - title: Maps
+        url: /maps/
+      - title: "Characters"
+        url: /characters/
