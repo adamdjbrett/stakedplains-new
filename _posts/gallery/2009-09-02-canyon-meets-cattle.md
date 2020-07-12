@@ -21,7 +21,6 @@ gallery:
     image_path: /images/gallery/ja_ranch_brand_tn.jpg
     alt: "JA Ranch Brand high resolution"  
 ---
-![decorative image](/images/gallery/category_8.jpg)
 Adair and Goodnight put down stakes in Palo Duro Canyon
 ***
 
