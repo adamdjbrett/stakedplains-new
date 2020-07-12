@@ -53,4 +53,4 @@ gallery:
 {% include gallery caption="Dispossessions" %}
 
 ## Relentless
-![moving gif](/images/gallery/138.gif)
+![moving gif](/images/gallery/38.gif)
