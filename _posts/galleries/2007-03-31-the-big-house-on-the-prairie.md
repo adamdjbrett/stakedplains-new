@@ -11,5 +11,6 @@ tags:
   - palo-duro
   - history  
 ---
+![230](/images/gallery/230.jpg)
 
 A roadside view of the big house of the JA Ranch, where the Adair's lived during their visits to Texas. The architect is not known, but the style is English, surely in line with the Herefords that were a mainstay of the JA's vast cattle breeding project.

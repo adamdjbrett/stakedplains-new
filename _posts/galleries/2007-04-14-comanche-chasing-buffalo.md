@@ -11,5 +11,6 @@ tags:
   - palo-duro
   - history  
 ---
+![256](/images/gallery/256.jpg)
 
 George Catlin took several trips to Indian Country before it was too late for both the Indian and the buffalo. (Smithsonian American Indian Collection)

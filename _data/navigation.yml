@@ -31,7 +31,7 @@ main:
 
 #sidebar blog
 sidebar-blog:
-  - title: Getting Started
+  - title: Content
     children:
       - title: "Categories"
         url: /categories/

@@ -11,5 +11,6 @@ tags:
   - palo-duro
   - history  
 ---
+![227](/images/gallery/227.jpg)
 
 Buffalo was the perfect species for the Great Plains grasslands and their well-being. Then Cattle became king and has regressively devoured its habitat like the proverbial plough that broke the plains. Their eclipse as a way of life is poignantly rendered by the painter. (Painting by Krista Wallhagen)

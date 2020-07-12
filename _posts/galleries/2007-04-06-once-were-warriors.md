@@ -13,4 +13,6 @@ tags:
   - palo-duro
   - history  
 ---
+![240](/images/gallery/240.jpg)
+
 "The vastness that once was Commancheria."

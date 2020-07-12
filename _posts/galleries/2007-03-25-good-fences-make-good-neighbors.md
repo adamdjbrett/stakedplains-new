@@ -11,5 +11,6 @@ tags:
   - palo-duro
   - history  
 ---
+![221](/images/gallery/221.jpg)
 
 Privatizing the range, taken to the limit. But who shot up the sign and what's the message?
