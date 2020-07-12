@@ -6,7 +6,7 @@ tags:
   - staked-plains
   - palo-duro
   - history
-slideshow:
+gallery:
   - image_path: /images/slideshow/42_tn.jpg
     url: /images/slideshow/42.jpg
   - image_path: /images/slideshow/adairswife3_tn.jpg
