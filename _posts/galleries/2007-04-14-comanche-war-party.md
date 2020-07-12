@@ -11,5 +11,5 @@ tags:
   - palo-duro
   - history  
 ---
-
+![257](/images/gallery/257.jpg)
 From Catlin's 18xx trip to Comancheria. (Smithsonian American Indian Collection)

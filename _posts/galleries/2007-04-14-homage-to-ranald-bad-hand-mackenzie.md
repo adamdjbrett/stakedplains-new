@@ -11,5 +11,6 @@ tags:
   - palo-duro
   - history  
 ---
+![259](/images/gallery/259.jpg)
 
 The play _Equus_ explores the internal canyons that lead to a boy's slaying of a single horse. Colonel Ranald Mackenzie fell apart, psychically, on the eve before his wedding.

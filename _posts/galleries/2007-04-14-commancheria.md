@@ -13,4 +13,6 @@ tags:
   - palo-duro
   - history  
 ---
+![254](/images/gallery/254.jpg)
+
 "Traditional Commanche Territories."

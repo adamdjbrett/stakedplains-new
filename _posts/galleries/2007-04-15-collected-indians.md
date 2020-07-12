@@ -11,5 +11,6 @@ tags:
   - palo-duro
   - history  
 ---
+![264](/images/gallery/264.jpg)
 
 Much of indigenous North America's material (and still spiritual) legacy is collected, preserved and accessible in places such as the National Cowboy and Western Heritage Museum, Tulsa Oklahoma.

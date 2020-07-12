@@ -11,3 +11,4 @@ tags:
   - palo-duro
   - history  
 ---
+![277](/images/gallery/277.jpg)

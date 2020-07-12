@@ -11,5 +11,6 @@ tags:
   - palo-duro
   - history  
 ---
+![276](/images/gallery/276.jpg)
 
 Cornelia Adair links Ireland and Texas as the saga goes international. Stay tuned to this space for more...
