@@ -11,4 +11,4 @@ tags:
 
 A Texas highway map pinpoints Palo Duro Canyon and the counties it spans. (Texas DOT)
 
-![Palo Duro](/images/148.jpg)
+![Palo Duro](/images/maps/148.jpg)

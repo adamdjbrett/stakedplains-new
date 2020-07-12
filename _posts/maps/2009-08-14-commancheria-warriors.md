@@ -11,4 +11,4 @@ tags:
 
 The vastness that once was Commancheria.
 
-![Coronado’s Expedition](/images/239.png)
+![Coronado’s Expedition](/images/maps/239.png)

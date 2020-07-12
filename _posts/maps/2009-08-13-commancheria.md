@@ -10,4 +10,4 @@ tags:
 ---
 Traditional Commanche Territories.
 
-![Commancheria by Asa Nanica](/images/254.jpg)
+![Commancheria by Asa Nanica](/images/maps/254.jpg)
