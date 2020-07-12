@@ -5,7 +5,7 @@ categories:
   - gallery
 header:
   teaser: /images/category_8.jpg
-  image: /images/gallery/ja-ranch-logo.jpg
+  image: /images/gallery/ja-ranch-logo.png
 ---
 ![JA Ranch Logo](/images/gallery/ja-ranch-logo.jpg)
 
