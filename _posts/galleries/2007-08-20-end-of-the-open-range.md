@@ -11,5 +11,6 @@ tags:
   - palo-duro
   - history  
 ---
+![284](/images/gallery/284.jpg)
 
 Goodnight and Adair embraced the need to demark and privately own the Open Range. Their massive barbed wiring project for the Panhandle's set of JA Ranches -- along with railroads and the winter of 1886 -- helped to catalyze the end of the great cattle drives and of the free range cowboy's way of life.

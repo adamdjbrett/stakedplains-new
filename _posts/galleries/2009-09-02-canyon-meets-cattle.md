@@ -7,4 +7,6 @@ header:
   teaser: /images/category_8.jpg
   image: /images/gallery/ja-ranch-logo.jpg
 ---
+![JA Ranch Logo](/images/gallery/ja-ranch-logo.jpg)
+
 Adair and Goodnight put down stakes in Palo Duro Canyon

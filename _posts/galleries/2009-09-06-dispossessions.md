@@ -15,10 +15,6 @@ gallery:
     image_path: /images/thumbs/155_t.jpg
     alt: "Shattered Hearths"
     title: "Shattered Hearths"    
-  - url: /images/38.gif
-    image_path: /images/thumbs/38_t.gif
-    alt: "Relentless"
-    title: "Relentless"
   - url: /images/14.jpg
     image_path: /images/thumbs/114_t.jpg
     alt: "A Cottage Near Glenveagh"
@@ -51,3 +47,6 @@ gallery:
 "Where and how our fates are linked"
 
 {% include gallery caption="Dispossessions" %}
+
+## Relentless
+![moving gif](/images/38.gif)

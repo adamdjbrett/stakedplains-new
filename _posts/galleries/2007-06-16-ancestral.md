@@ -11,5 +11,6 @@ tags:
   - palo-duro
   - history  
 ---
+![282](/images/gallery/282.jpg)
 
 Evoking spirits of the canyons before and during the comings of Coronado, Mackenzie, Goodnight and the Adair's. (Montage by R. Spiegelman)
