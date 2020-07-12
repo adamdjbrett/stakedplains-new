@@ -11,4 +11,4 @@ tags:
 Indian Country as War Looms (1874)
 The location of tribes on the eve of the Red River War. (Texas Beyond History)
 
-![Indian Country as War Looms](/images/152.jpg)
+![Indian Country as War Looms](/images/maps/152.jpg)
