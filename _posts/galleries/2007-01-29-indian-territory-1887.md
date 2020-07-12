@@ -13,4 +13,6 @@ tags:
   - palo-duro
   - history   
 ---
+![139](/images/gallery/139.jpg)
+
 Just 13 years before this map, the region hosted sovereign Indian homelands. The map shows a new power grid, the result of the Trail of Tears (1838) and Red River War (1874). The Texas Panhandle and JA Ranch lie west of the pacified red zone.

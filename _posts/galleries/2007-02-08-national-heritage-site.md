@@ -11,5 +11,6 @@ tags:
   - palo-duro
   - history  
 ---
+![156](/images/gallery/156.jpg)
 
 A night time drive through the rural Panhandle sheds light on the 1973 plaque that names the JA Ranch a National Historic Landmark.

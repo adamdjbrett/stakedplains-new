@@ -11,5 +11,6 @@ tags:
   - palo-duro
   - history  
 ---
+![200](/images/gallery/200.jpg)
 
 East of the Mississippi, massive deforestation enabled and completed the private and public appropriation of former Indian lands, even as it paved the way to massive commodity farming.

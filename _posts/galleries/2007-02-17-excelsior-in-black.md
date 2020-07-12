@@ -13,6 +13,8 @@ tags:
   - palo-duro
   - history  
 ---
+![181](/images/gallery/181.jpg)
+
   "Solarized view of the bleaching bones that stamped the Great Plains as a new century loomed."
 ***
 

@@ -11,5 +11,6 @@ tags:
   - palo-duro
   - history
 ---
+![138](/images/gallery/138.jpg)
 
 A highway sign south of Amarillo announces it's "Buffalo Country." Here is the evidence of things unseen.

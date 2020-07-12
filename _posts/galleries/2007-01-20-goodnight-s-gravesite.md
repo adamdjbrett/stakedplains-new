@@ -12,5 +12,6 @@ tags:
   - history
   - image  
 ---
+![116](/images/gallery/116.jpg)    
 
 Here lies Charlie Goodnight, the man and Texas icon.

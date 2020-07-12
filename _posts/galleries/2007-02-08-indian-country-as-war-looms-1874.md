@@ -13,5 +13,6 @@ tags:
   - palo-duro
   - history
 ---
+![152](/images/gallery/152.jpg)
 
-  "The location of tribes on the eve of the Red River War. (Texas Beyond History)"
+"The location of tribes on the eve of the Red River War. (Texas Beyond History)"

@@ -11,5 +11,6 @@ tags:
   - palo-duro
   - history  
 ---
+![199](/images/gallery/199.jpg)
 
 West of the Mississippi, massive buffalo slaughter enabled and completed the private and public appropriation of former Indian lands. (Image by John Hitchcock)

@@ -11,5 +11,6 @@ tags:
   - palo-duro
   - history  
 ---
+![196](/images/gallery/196.jpg)
 
 As chief of the Army's Department of the Missouri and de facto overseer of Plains Indian pacification, Sheridan's HQ was situated at 534 S. Wabash Ave, near the arrow at today's 1200 block. It sat around the corner from his great mansion on South Michigan Avenue. (Google Maps)

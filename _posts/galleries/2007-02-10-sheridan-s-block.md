@@ -11,5 +11,6 @@ tags:
   - palo-duro
   - history  
 ---
+![162](/images/gallery/162.jpg)
 
 The 3300 block of South Michigan Av., near where Sheridan's Chicago mansion was located when he oversaw the Great Plains. (Chicago Historical Society)

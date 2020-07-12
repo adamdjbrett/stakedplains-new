@@ -11,5 +11,6 @@ tags:
   - palo-duro
   - history  
 ---
+![195](/images/gallery/195.jpg)
 
 An official historical marker within Palo Duro Canyon State Park, marking part of the area where Mackenzie secretly attacked and uprooted the last free Indian encampments on the Southern Plains, September 28, 1874.

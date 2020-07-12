@@ -13,6 +13,8 @@ tags:
   - palo-duro
   - history  
 ---
+![180](/images/gallery/180.jpg)
+
   "Remnants of the Buffalo Wars"
 ***
 

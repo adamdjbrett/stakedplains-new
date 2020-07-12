@@ -11,5 +11,6 @@ tags:
   - palo-duro
   - history
 ---
+![136](/images/gallery/136.jpg)
 
 A town named for Quanah Parker, whose high school football team is called the Fighting Indians. In real time, Quanah's fighting band fought and escaped Mackenzie's Red River War attack in 1874, and were forced from Palo Duro Canyon. Quanah's starving band held out until June 1875, becoming the last group to surrender itself at Ft. Sill, Oklahoma. The school's History curriculum would do well to include the events behind the town's namesake and team's nickname.

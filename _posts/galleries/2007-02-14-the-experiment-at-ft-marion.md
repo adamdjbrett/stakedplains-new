@@ -11,5 +11,6 @@ tags:
   - palo-duro
   - history  
 ---
+![174](/images/gallery/174.jpg)
 
 Portrait of the Indians in captivity at Ft. Marion, brought there by Capt. Richard Pratt in the aftermath of the Red River War. Pratt's experiment at Ft. Marion led to the funding and establishment of the Carlisle Indian School, a place to "humanize" Indians. Pratt's motto: "Kill the Indian inside, to save the Man." (Hampton University Archive)
