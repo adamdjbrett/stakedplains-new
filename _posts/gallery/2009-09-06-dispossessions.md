@@ -3,6 +3,10 @@ title: "Dispossessions"
 excerpt: "Where and how our fates are linked"
 categories:
   - gallery
+tags:
+  - staked-plains
+  - palo-duro
+  - history 
 header:
   teaser: /images/gallery/114_tn.jpg
   image: /images/gallery/14.jpg

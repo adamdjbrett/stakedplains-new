@@ -1,15 +1,11 @@
 ---
-title: "Where Canyon Meets Cattle Ranch"
-excerpt: "Adair and Goodnight put down stakes in Palo Duro Canyon"
+title: "JA Ranch Brand"
 categories:
   - gallery
 tags:
   - staked-plains
   - palo-duro
   - history 
-header:
-  teaser: /images/gallery/category_8.jpg
-  image: /images/gallery/ja-ranch-logo-new.svg
 gallery:
   - url: /images/gallery/ja-ranch-logo.png
     image_path: /images/gallery/ja-ranch-logo_tn.jpg
@@ -22,7 +18,6 @@ gallery:
     alt: "JA Ranch Brand high resolution"  
 ---
 ![decorative image](/images/gallery/category_8.jpg)
-Adair and Goodnight put down stakes in Palo Duro Canyon
 ***
 
 {% include gallery caption="Logo gallery" %}

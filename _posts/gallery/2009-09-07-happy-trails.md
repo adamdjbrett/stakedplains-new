@@ -3,6 +3,10 @@ title: "Sheridan’s Teepees"
 excerpt: "Indian and Buffalo Removal precede the coming of the JA Ranch & the Open Range"
 categories:
   - gallery
+tags:
+  - staked-plains
+  - palo-duro
+  - history 
 header:
   teaser: /images/gallery/category_1.jpg
   image: /images/gallery/162.jpg

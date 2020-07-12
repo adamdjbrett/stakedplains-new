@@ -3,6 +3,10 @@ title: "All the photos"
 excerpt: "A gallery of all the photos"
 categories:
   - gallery
+tags:
+  - staked-plains
+  - palo-duro
+  - history 
 header:
   teaser: /images/gallery/category_1.jpg
   image: /images/gallery/buffalo_1870.jpg
