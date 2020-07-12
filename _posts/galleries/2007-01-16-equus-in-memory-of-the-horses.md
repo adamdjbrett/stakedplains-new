@@ -11,5 +11,6 @@ tags:
   - palo-duro
   - history    
 ---
+![107](/images/gallery/107.jpg)
 
 After dispatching the Commanche's horses, Mackenzie's troops stacked their remains into a _mountain_ of bleaching bones as a symbolic warning. It stood as a warning in Tule Canyon for decades, until it was dismantled and sold off as fertilizer. (Photo Courtesy of [Bill Mueller](http://www.texasfinearts.com/Bill Meuller") )

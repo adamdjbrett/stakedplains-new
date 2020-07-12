@@ -11,5 +11,6 @@ tags:
   - palo-duro
   - history   
 ---
+![106.jpg](/images/gallery/106.jpg)    
 
 At the Battle of Palo Duro, Mackenzie's troops captured some 1500-1800 Commanche horses, and drove them into Tule Canyon. They were slaughtered here, in the greatest (recorded) horse massacre in American history. This broke the back of Commanche resistance and eventually drove them, the greatest horsemen of the Plains, back into Indian Territory and on to the Reservation.
