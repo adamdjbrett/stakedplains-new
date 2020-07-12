@@ -23,8 +23,8 @@ gallery:
     image_path: /images/gallery/114_tn.jpg
     alt: "A Cottage Near Glenveagh"
     title: "A Cottage Near Glenveagh"
-  - url: /images/gallery/141.jpg
-    image_path: /images/gallery/141_tn.jpg
+  - url: /images/gallery/41.jpg
+    image_path: /images/gallery/41_tn.jpg
     alt: "Right to Return?"
     title: "Right to Return?"    
   - url: /images/gallery/148.jpg
