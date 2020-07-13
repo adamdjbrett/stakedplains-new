@@ -13,4 +13,5 @@ gallery:
     title: "Llano Estacado"
     alt: "satellite view of the area"
 ---
+{% include gallery caption="Llano map" %}
 A satellite view of the Staked Plains and Texas Panhandle. The Staked Plains are the vastness west of Amarillio, Palo Duro Canyon is the scar that runs southeast.

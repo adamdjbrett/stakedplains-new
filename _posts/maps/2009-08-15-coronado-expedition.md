@@ -13,4 +13,5 @@ gallery:
     title: "Coronado’s Expedition Map"
     alt: "US National Park Service map"  
 ---
+{% include gallery caption="Coronado map" %}
 Spanish Conquistador Coronado's fabled trek through the Southwest, crossed the Llano Estacado and Palo Duro Canyon. (US National Park Service, 1974)

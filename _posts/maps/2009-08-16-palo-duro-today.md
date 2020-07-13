@@ -13,5 +13,5 @@ gallery:
     title: "Texas Highway Map"
     alt: "via Texas DOT"
 ---
-
+{% include gallery caption="Palo Duro today map" %}
 A Texas highway map pinpoints Palo Duro Canyon and the counties it spans. (Texas DOT)

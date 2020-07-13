@@ -13,4 +13,6 @@ gallery:
     title: "Lubbock"
     alt: "Key sites in the Red River War"  
 ---
+{% include gallery caption="Red River map" %}
+
 Key sites of the Red River (Buffalo) War of 1874 (Texas Beyond History)

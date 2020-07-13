@@ -13,5 +13,6 @@ gallery:
     title: "Coronado‘s Expedition"
     alt: "Coronado Map"  
 ---
+{% include gallery caption="Commance land map" %}
 
 The vastness that once was Commancheria.
