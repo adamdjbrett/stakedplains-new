@@ -3,6 +3,7 @@ title: "Once Were Warriors"
 excerpt_separator: "<!--more-->"
 categories:
   - maps
+  - gallery
 tags:
   - staked-plains
   - palo-duro

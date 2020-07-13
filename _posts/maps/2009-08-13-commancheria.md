@@ -13,4 +13,6 @@ gallery:
     title: "Commancheria by Asa Nanica Image 2"
     alt: "art about the Commanche"
 ---
+{% include gallery caption="Commancheria gallery" %}
+
 Traditional Commanche Territories.
