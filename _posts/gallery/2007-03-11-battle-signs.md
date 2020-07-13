@@ -1,8 +1,6 @@
 ---
 title: "Battle Signs"
 date: "2007-03-11 14:01:13"
-header:
-  image: /images/gallery/195.jpg
 last_modified: "2020-07-05"
 categories:
   - gallery

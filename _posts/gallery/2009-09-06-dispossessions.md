@@ -7,9 +7,6 @@ tags:
   - staked-plains
   - palo-duro
   - history
-header:
-  teaser: /images/gallery/114_tn.jpg
-  image: /images/gallery/114.jpg
 gallery:
   - url: /images/gallery/156.jpg
     image_path: /images/gallery/156_tn.jpg

@@ -1,8 +1,6 @@
 ---
 title: "Quanah Parker ('The Last Commanche Chief')"
 date: "2007-01-27 12:54:29"
-header:
-  image: /images/gallery/128.jpg
 last_modified: "2007-03-12 12:10:12"
 categories:
   - characters

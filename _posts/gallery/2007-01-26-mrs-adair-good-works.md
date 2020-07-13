@@ -1,8 +1,6 @@
 ---
 title: "Mrs. Adair’s Good Works"
 date: "2007-01-26 16:33:17"
-header:
-  image: /images/gallery/125.jpg
 last_modified: "2007-02-05 12:16:25"
 categories:
   - gallery

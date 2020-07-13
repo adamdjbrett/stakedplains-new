@@ -1,8 +1,6 @@
 ---
 title: "The Coming of the Brand"
 date: "2007-01-17 20:41:21"
-header:
-  image: /images/gallery/ja-ranch-logo-new.svg
 last_modified: "2007-03-29 23:28:12"
 categories:
   - gallery

@@ -1,8 +1,6 @@
 ---
 title: "Last Commanche Chief"
 date: "2007-02-14 11:36:29"
-header:
-  image: /images/gallery/171.jpg
 last_modified: "2007-04-09 11:56:09"
 categories:
   - gallery

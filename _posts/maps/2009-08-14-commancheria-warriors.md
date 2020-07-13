@@ -7,8 +7,11 @@ tags:
   - staked-plains
   - palo-duro
   - history
+gallery:
+  - url: /images/gallery/239.png
+    image_path: /images/gallery/239_tn.jpg
+    title: "Coronado‘s Expedition"
+    alt: "Coronado Map"  
 ---
 
 The vastness that once was Commancheria.
-
-![Coronado’s Expedition](/images/gallery/239.png)

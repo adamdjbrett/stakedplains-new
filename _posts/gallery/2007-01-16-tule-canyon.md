@@ -1,8 +1,6 @@
 ---
 title: "Tule Canyon"
 date: "2007-01-16 22:17:36"
-header:
-  image: /images/gallery/106.jpg
 last_modified: "2007-03-08 20:05:06"
 categories:
   - gallery

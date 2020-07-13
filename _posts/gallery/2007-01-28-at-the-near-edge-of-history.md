@@ -1,8 +1,6 @@
 ---
 title: "At the Near Edge of History"
 date: "2007-01-28 08:19:14"
-header:
-  image: /images/gallery/133.jpg
 last_modified: "2007-01-28 08:24:07"
 categories:
   - gallery

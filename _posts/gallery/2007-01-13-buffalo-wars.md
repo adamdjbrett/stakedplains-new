@@ -1,8 +1,6 @@
 ---
 title: "Buffalo Wars"
 date: "2007-01-13 23:07:25"
-header:
-  image: /images/gallery/100.jpg
 last_modified: "2007-01-16 19:10:56"
 categories:
   - gallery

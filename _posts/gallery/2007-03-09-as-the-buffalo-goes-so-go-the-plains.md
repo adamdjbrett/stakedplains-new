@@ -1,8 +1,6 @@
 ---
 title: "As the Buffalo goes, so go the Plains..."
 date: "2007-03-09 10:51:35"
-header:
-  image: /images/gallery/193.jpg
 last_modified: "2007-03-12 12:18:29"
 categories:
   - gallery

@@ -1,8 +1,6 @@
 ---
 title: "Quanah Parker Domesticated"
 date: "2007-06-21 21:41:23"
-header:
-  image: /images/gallery/283.jpg
 last_modified: "2007-06-21 21:46:10"
 categories:
   - gallery

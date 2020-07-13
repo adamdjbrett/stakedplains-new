@@ -1,8 +1,6 @@
 ---
 title: "Goodnight, Charlie"
 date: "2007-01-20 02:26:05"
-header:
-  image: /images/gallery/111.jpg
 last_modified: "2007-04-27 09:21:57"
 categories:
   - gallery

@@ -1,8 +1,6 @@
 ---
 title: "Redeeming the Future"
 date: "2007-04-14 08:40:17"
-header:
-  image: /images/gallery/258.jpg
 last_modified: "2007-04-14 08:42:24"
 categories:
   - gallery

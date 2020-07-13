@@ -1,8 +1,6 @@
 ---
 title: "Free Scenes by Unfree Artists"
 date: "2007-01-27 16:11:52"
-header:
-  image: /images/gallery/131.jpg
 last_modified: "2007-04-25 01:16:31"
 categories:
   - gallery

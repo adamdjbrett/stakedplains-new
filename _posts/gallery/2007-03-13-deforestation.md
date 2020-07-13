@@ -1,8 +1,6 @@
 ---
 title: "Deforestation"
 date: "2007-03-13 08:08:49"
-header:
-  image: /images/gallery/200.jpg
 last_modified: "2007-03-24 02:17:47"
 categories:
   - gallery

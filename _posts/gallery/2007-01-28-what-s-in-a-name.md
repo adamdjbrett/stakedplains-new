@@ -1,8 +1,6 @@
 ---
 title: "What’s in a Name?"
 date: "2007-01-28 11:13:02"
-header:
-  image: /images/gallery/136.jpg
 last_modified: "2007-02-08 18:59:48"
 categories:
   - gallery

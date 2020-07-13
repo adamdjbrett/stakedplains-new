@@ -1,8 +1,6 @@
 ---
 title: "Protecting the Stewards of Land and Livestock"
 date: "2007-04-25 13:52:43"
-header:
-  image: /images/gallery/266.jpg
 last_modified: "2007-04-27 09:04:00"
 categories:
   - gallery

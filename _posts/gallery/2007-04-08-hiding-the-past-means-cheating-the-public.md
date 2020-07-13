@@ -1,8 +1,6 @@
 ---
 title: "Hiding the Past Means Cheating the Public"
 date: "2007-04-08 07:31:20"
-header:
-  image: /images/gallery/249.jpg
 last_modified: "2007-04-08 07:51:50"
 categories:
   - gallery

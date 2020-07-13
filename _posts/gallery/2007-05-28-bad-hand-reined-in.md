@@ -1,8 +1,6 @@
 ---
 title: "'Bad Hand' Reined In"
 date: "2007-05-28 07:07:28"
-header:
-  image: /images/gallery/280.jpg
 last_modified: "2020-07-05"
 categories:
   - gallery

@@ -1,8 +1,6 @@
 ---
 title: "The Spirit of Manifest Destiny"
 date: "2007-03-25 20:11:21"
-header:
-  image: /images/gallery/226.jpg
 last_modified: "2007-03-25 20:15:19"
 categories:
   - gallery

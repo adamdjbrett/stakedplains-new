@@ -1,8 +1,6 @@
 ---
 title: "Savior of the Buffalo?"
 date: "2007-01-28 09:50:59"
-header:
-  image: /images/gallery/135.jpg
 last_modified: "2007-04-08 09:31:14"
 categories:
   - gallery

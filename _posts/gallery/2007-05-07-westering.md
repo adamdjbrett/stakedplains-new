@@ -1,8 +1,6 @@
 ---
 title: "Westering"
 date: "2007-05-07 17:26:43"
-header:
-  image: /images/gallery/272.jpg
 last_modified: "2007-05-07 17:31:06"
 categories:
   - gallery

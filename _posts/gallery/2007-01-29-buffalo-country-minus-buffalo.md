@@ -1,8 +1,6 @@
 ---
 title: "Buffalo Country (Minus Buffalo)"
 date: "2007-01-29 15:45:41"
-header:
-  image: /images/gallery/138.jpg
 last_modified: "2007-01-30 06:14:08"
 categories:
   - gallery

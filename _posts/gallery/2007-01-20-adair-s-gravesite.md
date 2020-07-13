@@ -1,8 +1,6 @@
 ---
 title: "Adair‘s Gravesite"
 date: "2007-01-20 09:52:49"
-header:
-  image: /images/gallery/115.jpg
 last_modified: "2007-01-28 10:20:49"
 categories:
   - gallery
