@@ -40,4 +40,5 @@ permalink: /links/
 
 ## Related Websites
   - [American Indian Law Alliance](https://aila.ngo)
+  - [Doctrine of Discovery](https://doctrineofdiscovery.org/)
   - [Indigenous Values Initiative](https://indigenousvalues.org)
