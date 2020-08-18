@@ -10,6 +10,7 @@ permalink: /links/
 
 ### [Welcome to _Then & Now_: Bob Spiegelman’s Web Trilogy](http://www.thenandnow.us/)
   - [Then and Now](http://www.thenandnow.us)
+  - [Derry Veagh](https://www.derryveagh.com)
   - [Sullivan Clinton Campaign](http://www.sullivanclinton.com)
   - [Staked Plains](http://www.stakedplains.com)
 
