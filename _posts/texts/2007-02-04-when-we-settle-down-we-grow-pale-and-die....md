@@ -12,6 +12,7 @@ tags:
   - history   
 ---
 Satanta, the revered Kiowa chief, fought, then tried, then died on the white road. As 1870 approaches, he speaks his poignant truths to Indian Agent Lawrie Tatum, a well-meaning but ultimately powerless Indian Agent...
+
 ***
 ![Decorative Image](/images/gallery/section_6.jpg)
 

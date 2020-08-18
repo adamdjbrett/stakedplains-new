@@ -13,7 +13,9 @@ tags:
   - history    
 ---
 An evolving Who's Who of _this_ Staked Plains/Palo Duro saga and its aftermaths (In progress... Please add your players!)
+
 ***
+
 ![Decorative Image](/images/gallery/section_1.jpg)
 
 ## John George Adair

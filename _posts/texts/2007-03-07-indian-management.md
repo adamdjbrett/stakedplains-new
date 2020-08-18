@@ -12,6 +12,7 @@ tags:
   - history  
 ---
   "From the memoirs of a soldier who guarded the pacified..."
+  
 ***
 
 At Ft. Sill the Indians we guarded on the extensive reservation were the Comanches and the Kioways. They numbered several thousands. Of the Koways the enteir tribe had been pacified. Of the Comanches all were present except a few of the Cohardie [Quohadi] Commanches, still hostile. Their camp was said to be somewhere out on the Staked Plains or Llano Estacado. The Cohardie Commanches, the scourge of Texas and the Southwest, were in 1874 attacked by Mackenzie with the 4th Cavalry, at their camp in the Paladuro Canyon of the Staked Plains. Twelve hundred Indian ponies were captured and shot to prevent their recapture. Most of the Indians then surrendered...

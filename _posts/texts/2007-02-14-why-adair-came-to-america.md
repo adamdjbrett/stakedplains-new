@@ -14,6 +14,7 @@ tags:
 ---
 
 "Accounts blandly say he opened a loan brokerage in 1866 in New York; the place where he, a presumably very landed gentleman, meets and marries his presumably very wealthy bride. But _why_ leave Ireland at all?"
+
 ***
 
 In 1866, Adair came to post-Civil War New York from Ireland to boost his fortunes. Why? Perhaps the wild-fire spread of the _Great Cattle Plague_ from Europe to Britain toward Ireland was threatening his way of life. That year, this hymn was written and widely sung in English churches:

@@ -12,6 +12,7 @@ tags:
   - history   
 ---
 Hunt Buffalo! Plant Corn! Hunt Buffalo! Reap Corn! The Solutions to the "Indian Question" fly fast and furious. But wherever there is land, only one solution will do...
+
 ***
 ![Decorative Image](/images/gallery/section_9.jpg)
 

@@ -12,6 +12,7 @@ tags:
   - history  
 ---
   "In 1879, Gen. William "Tecumseh" Sherman, took time out from fighting Indians out West to go East and address the Centennial of Gen. Sullivan's 1779 victory over the Iroquois."
+
 ***
 
 I do not intend to occupy but one or two minutes of your time, because I am conscious that you look upon me simply as one of the curiosities of the day. But, my friends, we are all at war. Ever since the first white man landed upon this continent, there has been a battle. We are at war to-day—a war between civilization and savages. Our forefathers, when they first landed upon this continent, came to found an empire based upon new principles, and all opposition to it had to pass away, whether it be English or French on the north, or Indians on the west; and no one knew it better than our father, Washington. [Applause.] He gave General Sullivan orders to come here and punish the Six Nations, for their cruel massacre in the valley of the Wyoming, and to make it so severe that it would not occur again. And he did so. General Sullivan obeyed his orders like a man and like a soldier, and the result was from that time forward, your people settled up these beautiful valleys all around here, and look at their descendants here—a million almost. [Applause.]

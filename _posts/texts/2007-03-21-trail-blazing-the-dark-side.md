@@ -12,6 +12,7 @@ tags:
   - history  
 ---
   "Charles Goodnight was a legendary trailblazer before Adair arrived on the scene with financing. For all the romance of his great cattle drives, they have a little known dark side..."
+
 ***
 
 Goodnight and Loving were planning too long a drive and too hard a trip to permit them even to think of running a calf wagon.  All they could do was kill the calves and drive the bawling mothers along the trail with the herd.

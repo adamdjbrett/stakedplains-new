@@ -12,6 +12,7 @@ tags:
   - history  
 ---
   "To maintain their landed Victorian lifestyle, the Adair's required a Bonanza. Their JA Ranch investment did not disappoint."
+
 ***
 
 In Adair's lifetime, the JA Ranch grew to 1.25 million acres, harvested hundreds of thousands of cattle, and, in

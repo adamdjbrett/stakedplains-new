@@ -12,6 +12,7 @@ tags:
   - history  
 ---
 "In 1873, the year before the Adair's went West, Mark Twain published his amazing _The Gilded Age_, and captured the tone of inevitable private abundance at the core of the Western project..."
+
 ***
 
 June 18 —

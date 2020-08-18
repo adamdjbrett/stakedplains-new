@@ -12,6 +12,7 @@ tags:
   - history    
 ---
 The way through the Staked Plains to and from Palo Duro is a moonlit clash of civilizations.
+
 ***
 ![Decorative Image](/images/gallery/section_7.jpg)
 

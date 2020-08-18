@@ -12,6 +12,7 @@ tags:
   - history   
 ---
 Charlie Goodnight's dream is to ranch the Palo Duro. Hitched to Goodnight's voracious savvy, John Adair's voracious wealth makes it possible. Goodnight's nephew, poet-songwriter Andy Wilkinson, portrays the "man born thirsty for this place"...
+
 ***
 
 

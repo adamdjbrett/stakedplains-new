@@ -13,6 +13,7 @@ tags:
 ---
 
 "They caught the scent of water on the air and began a great motion, until the broad shadow lake became a wallow of virtually all the southern herd... The hide men followed a few days later."
+
 ***
 
 In 1877 the Texas bison had retreated to the Staked Plains, the Llano Estacado of Texas and Oklahoma. Among the southern plains tribes, it is widely believed that the bison first sprang from the earth in the canyons here. Archaeological evidence indicates that both bison and bison hunting are ancient in Texas.

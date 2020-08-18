@@ -13,6 +13,7 @@ tags:
 ---
 
   "The historic existence in Texas of these people [Indians and Tejanos] will always live on in John Wayne films and the distorted history created by Anglo founding fathers such as John Henry Brown. But let us remember that the conqueror first tells the tale of his success. In its retelling, heroism and myth soon dominate. But the truth's reemergence is always in the offing."   
+
 ***
 
 There can be no doubt, however, that the most dramatic aspect of Texas history in the first fifty years of its Anglo development is the story of its frontier. Here, people fought over the land, and too many lawless people - Anglos, Tejanos, Indians, and renegades - dreamed of empire and chose violence as a way of obtaining it...

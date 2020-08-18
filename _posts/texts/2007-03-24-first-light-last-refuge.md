@@ -12,6 +12,7 @@ tags:
   - history  
 ---
   "Where buffalo first emerged, free Indians last migrated"
+  
 ***
 
 Native peoples of the Southwest Plains believed that the buffalo first emerged from the canyons of the Texas Panhandle. It's no accident that those Commanche, Kiown, Cheyenne and Arapaho who rejected the Reservations in 1874 headed to Palo Duro Canyon for a last taste of freedom.

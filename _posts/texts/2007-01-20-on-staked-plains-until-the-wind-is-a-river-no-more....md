@@ -15,6 +15,7 @@ The "Llano Estacado" - Staked Plains - is the name affixed by the Conquistadors 
 ![Decorative Image](/images/gallery/section_2.jpg)
 
 ***
+
 The wind is the oldest river, rhythmic,  \\
 Unceasing, infinite, the pulse of God.  \\
 Where time is the blood in which tghe Lano  \\

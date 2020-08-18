@@ -12,6 +12,7 @@ tags:
   - history    
 ---
   "After dispossessions - east and west - Indians were shoe-horned into "Indian Country." The next step was to legally atomize it into individual saleable units and destroy collective landholding as the basis of tribal life."
+  
 ***
 
 Authorized by Congress in 1889, the Cherokee Commission was formed to negotiate the purchase of huge areas of land from the Cherokees, Ioways, Pawnees, Poncas, Tonakawas, Wichitas, Cheyennes, Arapahos, Sac and Fox, and other tribes in Indian Territory. Some humanitarian reformers argued that dissolving tribal holdings into individual private properties would help "civilize" the Indians and speed their assimilation into American culture. Whatever the hoped-for effects, the coerced sales opened to white settlement the vast "unused" expanses of land that had been held communally by the tribes.

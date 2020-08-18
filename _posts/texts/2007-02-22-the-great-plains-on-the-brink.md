@@ -12,6 +12,7 @@ tags:
   - history  
 ---
   "Back East, settlement required deforestation; out West, it mandated buffalo harvesting."
+  
 ***
 
 Above all the bottomless resource of the buffalo herds which had supported their way of life since time immemorial was now running out. The penetration of the plains by the transcontinental railroads had split theri grazing grounds, put hide hunting on to a commerical basis, and accelerated slaughter to an industrial pace. The southern buffalo population was near extinction by the time of the Red River War; the northern population was in catastrophic decline also.

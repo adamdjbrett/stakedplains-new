@@ -12,6 +12,7 @@ tags:
   - history    
 ---
 "Captain R. G. Carter was there, in Tule Canyon with Mackenzie, when 2000 Commanche horses were destroyed. While barely remembered, this event broke Indian resistance on the Southern Plains and catalyzed Westward Expansion."
+
 ***
 
 Still another detachment was employed in rounding up the pony herd and getting it out of the Canon by the same trail we had already used.

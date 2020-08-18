@@ -12,6 +12,7 @@ tags:
   - history  
 ---
   "A purely reverential portrait of Goodnight by his famed biographer."
+  
 ***
 
 Now, a hundred and thirteen years after his birth, his massive frame still looms strong among the horsemen of the storied West.
