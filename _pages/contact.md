@@ -9,11 +9,11 @@ permalink: /contact/
       <legend>Personalia:</legend>
       <label for="full-name">Full Name</label>
       <input class="form-control" type="text" name="name" id="full-name" placeholder="First and Last" required="">
-      <label for="email-address">Email Address</label>
+      <label for="email-address">Email Address :</label>
       <input class="form-control" type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
-      <label for="message">Message</label>
-      <textarea class="form-control" rows="5" name="message" id="message" placeholder="your message." required=""></textarea>
-      <input type="hidden" name="_subject" id="email-subject" value="Doctrine of Discovery Contact Form Submission">
+      <label for="message">Date of birth:</label>
+      <input class="form-control" type="text" name="date" id="date" placeholder="Date of brith" required="">
+      <input type="hidden" name="_subject" id="email-subject" value="Stakedplains Form Submission">
       <p>
         <!-- replace with your recaptcha SITE key not secret key -->
       <div class="g-recaptcha" data-sitekey="6LcJYCoeAAAAAMQIYRE5YiJRi-xCbHsc6ua7v6s4"></div>
