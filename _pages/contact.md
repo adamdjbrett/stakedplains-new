@@ -6,6 +6,7 @@ permalink: /contact/
 ⚠️Currently this Form is inactive⚠️
   <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mdobawgz" method="post">
     <fieldset id="fs-frm-inputs">
+      <legend>Personalia:</legend>
       <label for="full-name">Full Name</label>
       <input class="form-control" type="text" name="name" id="full-name" placeholder="First and Last" required="">
       <label for="email-address">Email Address</label>
