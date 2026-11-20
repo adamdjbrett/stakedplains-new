@@ -10,7 +10,7 @@ layout: default
 
 <div id="main" role="main">
   <article class="splash h-entry" itemscope itemtype="https://schema.org/CreativeWork">
-    <link class="u-url" itemprop="url" href="{{ page | scholarly_url: site | escape }}">
+    <link class="u-url" itemprop="url" href="{% if page.canonical_url %}{{ page.canonical_url | absolute_url | escape }}{% else %}{{ page.url | prepend: site.url | absolute_url | escape }}{% endif %}">
     <span class="sr-only">By {% include entry-author.html entry=page %}</span>
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}

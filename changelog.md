@@ -1,3 +1,15 @@
+## 2026-11-19 — Standalone theme, plugin reduction and minification
+
+- Imported the 20 missing runtime theme files from the checksum-verified Minimal Mistakes 4.28.1 package. Retained the site’s existing theme overrides and compiled JavaScript. The Jekyll configuration explicitly disables theme-gem loading. The README documents independent builds and preview.
+- Restored the jQuery source used by this project’s JavaScript build and adjusted Sass arithmetic for the older GitHub Pages compiler. The main stylesheet compiled by Jekyll 4 remained byte-identical.
+- Replaced the two custom Ruby plugins with Liquid. Per-post JSON files share the page metadata template. A three-line source file declares each companion URL, and the build verifier checks it against the post.
+- Reduced the site bundle to two Jekyll plugins, `jekyll-paginate` and `jekyll-redirect-from`. Local templates generate Atom and the XML sitemap alongside the existing RSS, JSON Feed and twtxt templates. GitHub Pages supplies additional built-in plugins in its hosted runtime.
+- Minified HTML during rendering while preserving the contents of scripts, styles and preformatted blocks. Sass continues to emit compressed CSS.
+
+Production Jekyll 4.4.1 and GitHub Pages 232 with Jekyll 3.10.0 both built the site locally and passed metadata and feed verification. The Jekyll 4 comparison preserved the structured data on 206 themed pages and all 156 post metadata documents, the 207 sitemap URLs, and the redirect map. Themed HTML was 12.6% smaller. Chrome opened the homepage and introduction without console errors, followed all three feature image targets in hit testing, and played the introduction.
+
+Enabled Ruby’s YJIT compiler for the XMIT build step. Across three local production builds of each version, median Jekyll time went from 1.10 seconds to 1.41 seconds. These figures cover the Jekyll build and exclude dependency installation and deployment.
+
 ## 2026-11-19 — XMIT upload retry
 
 - Retry deployment once after ten seconds if XMIT reports a chunk upload failure with `tls: bad record MAC`. The deployment log shows the build and output checks passed before the first chunk upload failed.

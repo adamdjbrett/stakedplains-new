@@ -38,7 +38,7 @@ Site: http://mo.phlow.de/
 
 /* SITE */
 
-Project credits: {{ '/credits.txt' | absolute_url }}
+Project credits: {{ '/credits.txt' | prepend: site.url | absolute_url }}
 Standards: HTML5, CSS3
 Static site generator: Jekyll
 Theme: Minimal Mistakes

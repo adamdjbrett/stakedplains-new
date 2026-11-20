@@ -4,7 +4,7 @@ permalink: /credits.txt
 sitemap: false
 ---
 Staked Plains / Palo Duro Canyon
-{{ '/' | absolute_url }}
+{{ '/' | prepend: site.url | absolute_url }}
 
 Project creator and director: Robert Spiegelman
 Biography: https://sullivanclinton.com/bio/
@@ -14,4 +14,4 @@ Web development and administration: Adam DJ Brett — https://adamdjbrett.com/
 Original site: readymade99 and Robert Spiegelman
 
 The site's full credits identify the sources and contributors for the texts, artwork, and photography.
-{{ '/credits/' | absolute_url }}
+{{ '/credits/' | prepend: site.url | absolute_url }}
