@@ -8,8 +8,8 @@ tags:
   - palo-duro
   - history
 gallery:
-  - url: /assets/images//images/gallery/buffalo_1870.jpg
-    image_path: /assets/images/buffalo_1870_tn.jpg
+  - url: /images/gallery/buffalo_1870.jpg
+    image_path: /images/gallery/buffalo_1870_tn.jpg
     alt: "Bison skull pile"
     title: "Buffalo in 1870"  
 ---

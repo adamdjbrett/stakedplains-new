@@ -2,23 +2,23 @@
 layout: null
 source: "http://humanstxt.org/Standard.html"
 permalink: /humans.txt
-exclude: true
+sitemap: false
 ---
 /* TEAM */
 
 Director/Author: Robert Spiegelman
 Contact: bob@sullivanclinton.com
-Web: thenandnow.us
+Biography: https://sullivanclinton.com/bio/
 From: NYC
 
-Hosted by: Indigenous Values Initiative
-Web: https://www.indigenousvalues.org
+Project sponsor and host: Indigenous Values Initiative
+Web: https://indigenousvalues.org/
 Twitter: @indigenousVI
 
 Webmaster: Adam DJ Brett
 Contact: adam [at] adamdjbrett.com
 
-Web: Adamdjbrett.com | adamdj.tel
+Web: https://adamdjbrett.com/
 From: Syracuse University, Syracuse, NY
 
 
@@ -38,7 +38,7 @@ Site: http://mo.phlow.de/
 
 /* SITE */
 
-Last Updated: {{ site.time | date:"%Y/%m/%d" }}
+Project credits: {{ '/credits.txt' | absolute_url }}
 Standards: HTML5, CSS3
-Software: Atom, Chrome, Jekyll, Git, Imageoptim, JPEGMini, Gulp.js, Sass
-Components: Foundation Framework, Modernizr, jQuery, Backstretch.js, Reveal
+Static site generator: Jekyll
+Theme: Minimal Mistakes

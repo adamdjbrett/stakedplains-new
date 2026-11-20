@@ -1,0 +1,6 @@
+{%- assign entry_author = include.entry | scholarly_author: site -%}
+{%- if entry_author.url -%}
+<a class="p-author h-card h-author" href="{{ entry_author.url | escape }}"><span class="p-name">{{ entry_author.name | escape }}</span></a>
+{%- else -%}
+<span class="p-author h-card h-author"><span class="p-name">{{ entry_author.name | escape }}</span></span>
+{%- endif -%}

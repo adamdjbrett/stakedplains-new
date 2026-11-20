@@ -10,10 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
-# Default Version
-# remote_theme           : "mmistakes/minimal-mistakes"
-remote_theme             : "mmistakes/minimal-mistakes@4.26.2"
+theme: minimal-mistakes-jekyll
 minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -21,9 +18,9 @@ locale                   : "en-US"
 title                    : "STAKED PLAINS"
 title_separator          : "-"
 subtitle                 : "PALO DURO CANYON" # site tagline that appears below site title in masthead
-name                     : "Robert Spigelman"
+name                     : "Robert Spiegelman"
 description              : "Staked Plains/Palo Duro Canyon is where Conquistadors drive in stakes to find their way home."
-url                      : "https://www.stakedplains.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://stakedplains.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "adamdjbrett/stakedplains-archive" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -85,17 +82,10 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
-# Analytics
-analytics:
-  provider               : "google" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          : "UA-96037973-9"
-    anonymize_ip         : # true, false (default)
-
-
 # Site Author
 author:
   name             : "Robert Spiegelman"
+  url              : "https://sullivanclinton.com/bio/"
   avatar           : /images/robert-spiegelman-250x250.jpg
   bio              : "Bob Spiegelman has been a freelance author and film producer, screenwriter, project-developer, multimedia advisor, research director and story consultant on a growing array of film, museum and multimedia projects."
   location         : "New York City"
@@ -106,7 +96,7 @@ author:
       url: "mailto:bob@sullivanclinton.com"
     - label: "Bio"
       icon: "fas fa-fw fa-link"
-      url: "http://sullivanclinton.com/bio/"
+      url: "https://sullivanclinton.com/bio/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://thenandnow.us"
@@ -165,7 +155,7 @@ exclude:
   - assets/js/_main.js
   - assets/js/vendor
   - Capfile
-  - CHANGELOG
+  - changelog.md
   - config
   - Gemfile
   - Gruntfile.js

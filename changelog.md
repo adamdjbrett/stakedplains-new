@@ -1,3 +1,26 @@
+## 2026-11-19
+
+- Publish Zotero citation tags and Dublin Core fields in the public page head. The JSON-LD graph identifies the website, its digital humanities research project, creator Robert Spiegelman, and sponsor Indigenous Values Initiative. The post metadata files use the same graph.
+- Add IndieWeb entry markup and author cards to articles and archive listings. Use the apex domain for canonical and feed URLs, fix the creator’s name, and distinguish publication dates from documented update dates.
+- Publish a plain-text credits file, team details, and a crawler policy with the sitemap URL. Link the Atom, RSS 2.0, JSON Feed 1.1, and twtxt feeds from the page head, and configure XMIT media types for the three structured feeds.
+- Set the XMIT and HTML referrer policies to `strict-origin-when-cross-origin`. HTTPS requests to Cloudflare Insights carry the site origin while keeping page paths private.
+- Allow Cloudflare Insights scripts and requests, YouTube players, and Font Awesome styles, fonts, and kit requests in the public pages’ Content Security Policy.
+- Remove the retired Universal Analytics tag and retain the active GA4 measurement tag.
+- Pin Ruby 4.0.10 for local builds and CI, and lock Jekyll 4.4.1 with its dependencies for macOS and Linux.
+- Load Minimal Mistakes 4.28.1 from the installed theme gem and retain the site’s custom templates and styles.
+- Send the site origin on YouTube embeds to address player error 153.
+- Link feature images to their card destinations and keep their links above the card overlay.
+- Repair the buffalo gallery image and original link, and the Sheridan gallery image path.
+- Replace the Font Awesome kit that returned HTTP 403 with the versioned public icon stylesheet.
+
+### Verification
+
+All 206 public editorial and listing pages contained citation, Dublin Core, JSON-LD, and IndieWeb markup. The 156 post metadata files matched their page graphs. A microformats2 parser extracted the title, canonical permalink, publication date, entry content, and nested author card on all 156 posts. The homepage and an archive listing also exposed the expected entry and author fields. All four feeds identified the same ten latest entries in the same order.
+
+The production build passed under Ruby 4.0.10 and Bundler 4.1.0. A Chrome crawl of 208 non-redirect pages found no first-party console errors. All same-site asset paths referenced by the 214 generated HTML files resolved. Chrome and Firefox both received a readable HTTP 200 response from the reported Cloudflare beacon URL.
+
+The YouTube introduction played in Chrome and Firefox. Feature image links matched their card destinations in both browsers.
+
 ## [4.19.2](https://github.com/mmistakes/minimal-mistakes/releases/tag/4.19.2)
 
 ### Enhancements
