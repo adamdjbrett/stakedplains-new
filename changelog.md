@@ -1,6 +1,6 @@
 ## 2026-11-20 — Footer author link
 
-- Link Robert Spiegelman’s name in the copyright line to his biography. Keep his IndieWeb attribution in each entry and retain the page bylines for other credited authors.
+- Link Robert Spiegelman’s name in the copyright line to his biography. Publish the page’s IndieWeb entry and author card in the site footer. Remove the duplicate author bylines from splash pages, articles, and archive cards.
 
 ## 2026-11-19 — Standalone theme, plugin reduction and minification
 

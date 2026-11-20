@@ -16,4 +16,16 @@
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} <span class="h-card h-author"><a class="p-name u-url" href="{{ site.author.uri | default: site.author.url | escape }}" rel="author">{{ site.author.name | escape }}</a></span>. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>. Website developed by <a href="https://adamdjbrett.com" target="_blank" rel="noopener">Adam DJ Brett</a>.</div>
+{% capture entry_author %}{% include entry-author.html entry=page field="name" %}{% endcapture %}
+<div class="page__footer-copyright h-entry">
+  <data class="p-name" value="{{ page.title | default: site.title | strip_html | escape }}" hidden></data>
+  <a class="u-url" href="{% if page.canonical_url %}{{ page.canonical_url | absolute_url | escape }}{% else %}{{ page.url | prepend: site.url | absolute_url | escape }}{% endif %}" hidden></a>
+  {% if page.date %}<time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" hidden></time>{% endif %}
+  {% assign modified = page.last_modified_at | default: page.last_modified %}
+  {% if modified %}<time class="dt-updated" datetime="{{ modified | date_to_xmlschema }}" hidden></time>{% endif %}
+  {% if page.excerpt %}<data class="p-summary" value="{{ page.excerpt | strip_html | normalize_whitespace | escape }}" hidden></data>{% endif %}
+  {% if entry_author != empty and entry_author != site.author.name %}
+    {% capture entry_url %}{% include entry-author.html entry=page field="url" %}{% endcapture %}
+    <span class="p-author h-card h-author">{% if entry_url != empty %}<a class="p-name u-url" href="{{ entry_url | escape }}" rel="author">{{ entry_author | escape }}</a>{% else %}<span class="p-name">{{ entry_author | escape }}</span>{% endif %}</span>
+  {% endif %}
+  &copy; {{ site.time | date: '%Y' }} <span class="{% if entry_author == site.author.name %}p-author {% endif %}h-card h-author"><a class="p-name u-url" href="{{ site.author.uri | default: site.author.url | escape }}" rel="author">{{ site.author.name | escape }}</a></span>. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>. Website developed by <a href="https://adamdjbrett.com" target="_blank" rel="noopener">Adam DJ Brett</a>.</div>
