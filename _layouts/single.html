@@ -51,7 +51,7 @@ layout: default
       </section>
 
       <footer class="page__meta">
-        <p>By {% include entry-author.html entry=page %}</p>
+        {% include entry-author.html entry=page byline="true" %}
         {% if site.data.ui-text[site.locale].meta_label %}
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
         {% endif %}
