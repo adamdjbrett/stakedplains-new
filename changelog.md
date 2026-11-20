@@ -1,3 +1,7 @@
+## 2026-11-19 — XMIT upload retry
+
+- Retry deployment once after ten seconds if XMIT reports a chunk upload failure with `tls: bad record MAC`. The deployment log shows the build and output checks passed before the first chunk upload failed.
+
 ## 2026-11-19 — Cloudflare beacon verification
 
 - Verified that the live homepage’s Cloudflare beacon returned HTTP 200 with 31,853 bytes in Firefox and Chrome. Its SHA-512 matched the integrity attribute and its response allowed anonymous cross-origin access. The digest in the Firefox error matched zero bytes.
