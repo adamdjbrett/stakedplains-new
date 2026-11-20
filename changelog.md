@@ -1,3 +1,7 @@
+## 2026-11-19 — Cloudflare beacon verification
+
+- Verified that the live homepage’s Cloudflare beacon returned HTTP 200 with 31,853 bytes in Firefox and Chrome. Its SHA-512 matched the integrity attribute and its response allowed anonymous cross-origin access. The digest in the Firefox error matched zero bytes.
+
 ## 2026-11-19
 
 - Publish Zotero citation tags and Dublin Core fields in the public page head. The JSON-LD graph identifies the website, its digital humanities research project, creator Robert Spiegelman, and sponsor Indigenous Values Initiative. The post metadata files use the same graph.
